@@ -7,8 +7,7 @@
                             <div class="footer-logo mb-30">
                                 <a href="index.php"><img src="assets/images/logo-dark.png" alt=""></a>
                             </div>
-                              <div class="textwidget pb-30"><p>SERVING IN 70+ COUNTRIES FOR WEB, SOFTWARE AND MOBILE APP DEVELOPMENT
-United States (USA), United Kingdom (UK), Singapore, Kenya, South Africa, Germany, Canada, Australia, Netherlands, Norway, United Arab Emirates (UAE), Finland etc.</p>
+                              <div class="textwidget pb-30"><p>Groot Software is a go-to-destination for all your web development, software development and any other digital development task. We also provide digital marketing services for your business.</p>
                               </div>
                               <ul class="footer-social md-mb-30">  
                                   <li><a href="https://www.facebook.com/GrootSoftware/" target="_blank"><i class="fa fa-facebook"></i></a></li>

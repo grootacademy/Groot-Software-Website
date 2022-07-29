@@ -134,7 +134,7 @@
 
               <li>
                 <a href="#" class="menu-link">
-                  Why Groot
+                  About Us
 
                   <span class="drop-icon">
                     <i class="fa fa-arrow-down"></i>
@@ -146,25 +146,29 @@
                     <h5>ABOUT US</h5>
                     <ul>
                       <li><a href="about-us.php">Company Profile</a></li>
-                      <li><a href="groot-infrastructure.php">Infrastructure</a></li>
+                      <!-- <li><a href="groot-infrastructure.php">Infrastructure</a></li> -->
                       <li><a href="">Life @ Groot</a></li>
-                      <li><a href="groot-partnership-programs.php">Partnership</a></li>
+                      <li><a href="contact-us.php">Contact Us</a></li>
+
+                      <!-- <li><a href="groot-partnership-programs.php">Partnership</a></li> -->
                     </ul>
                   </div>
                   <!-- end of item -->
                   <!-- item -->
                   <div class="sub-menu-item">
-                    <h4>AWARDS</h4>
+                    <!-- <h4>AWARDS</h4> -->
+                    <h4 ></h4>
                     <ul>
-                      <li><a href="our-strategic-alliance.php">Alliances</a></li>
-                      <li><a href="industry-ranking-and-awards.php">Awards</a></li>
+                      <!-- <li><a href="our-strategic-alliance.php">Alliances</a></li> -->
+                      <!-- <li><a href="industry-ranking-and-awards.php">Awards</a></li> -->
                       <li><a href="groot-software-testimonials.php">Testimonials</a></li>
                       <li><a href="our-portfolio.php">Portfolio</a></li>
+                      <li><a href="career-at-groot-software.php">Career @ Groot</a></li>
                     </ul>
                   </div>
                   <!-- end of item -->
                   <!-- item -->
-                  <div class="sub-menu-item">
+                  <!-- <div class="sub-menu-item">
                     <h5>RESOURCES</h5>
                     <ul>
                       <li><a href="blog.php">Blog</a></li>
@@ -172,70 +176,19 @@
                       <li><a href="contact-us.php">Contact Us</a></li>
                       <li><a href="get-a-quote.php">Get a Quote</a></li>
                     </ul>
-                  </div>
+                  </div> -->
                   <!-- end of item -->
                   <!-- item -->
                   <div class="sub-menu-item">
                     <ul>
-                      <li><a class="quote-btn-wide" href="career-at-groot-software.php">Join Us</a></li>
-                      <li><a  class="quote-btn-wide" href="groot-software-internship-programs.php">Our Internship Programs</a></li>
+                      <li><a class="quote-btn-wide" href="career-at-groot-software.php">Join Our Team</a></li>
+                      <li><a  class="quote-btn-wide" href="https://www.grootacademy.com/">Learn at Groot</a></li>
                     </ul>
                   </div>
                   <!-- end of item -->
 
               </li>
-              <li>
-                <a href="#" class="menu-link">
-                  Products
-
-                  <span class="drop-icon">
-                    <i class="fa fa-arrow-down"></i>
-                  </span>
-                </a>
-                <div class="sub-menu ">
-                  <!-- item -->
-                  <div class="sub-menu-item picdimantion">
-                    <img class="img-thumbnail" class="menu_thumbnail" src="assets/images/menu/AI_products_thumbnail.png" /><br />
-                    <b>AI Products</b>
-                    <!-- <ul>
-                      <li><a href="#">cell phones & accessories</a></li>
-                      <li><a href="#">smart tv</a></li>
-                      <li><a href="#">computer & laptops</a></li>
-                      <li><a href="#">digital cameras</a></li>
-                      <li><a href="#">video games & accessories</a></li>
-                    </ul>-->
-                  </div>
-                  <!-- end of item -->
-                  <!-- item -->
-                  <!-- end of item -->
-                  <!-- item -->
-                  <div class="sub-menu-item picdimantion">
-                    <img class="img-thumbnail" class="menu_thumbnail" src="assets/images/menu/NFT-Marketplace-solution.png"><br />
-                    <b>NFT Marketplace</b>
-
-                  </div>
-                  <!-- end of item -->
-                  <!-- item -->
-                  <div class="sub-menu-item picdimantion">
-                    <img class="img-thumbnail" class="menu_thumbnail" src="assets/images/menu/NFT-Marketplace-solution.png"><br />
-                    <b>NFT Marketplace</b>
-
-                  </div>
-                  <!-- end of item -->
-                  <!-- item -->
-                  <div class="sub-menu-item picdimantion">
-                    <img class="img-thumbnail" class="menu_thumbnail" src="assets/images/menu/nft_gaming_menu.png" /><br />
-                    <b>NFT Gaming Marketplace</b>
-
-                  </div>
-                  <div class="sub-menu-item picdimantion  ">
-                    <img class="img-thumbnail" class="menu_thumbnail" src="assets/images/menu/oracle_implementation_solution_thumbnail.png" /><br />
-                    <b>Oracle Implementation Solution</b>
-
-                  </div>
-                  <!-- end of item -->
-                </div>
-              </li>
+             
               <li>
                 <a href="#" class="menu-link">
                   Services
@@ -249,9 +202,9 @@
                   <div class="sub-menu-item">
                     <h5><a href="mobile-app-development.php">Mobile App Development</a></h5>
                     <ul>
-                      <li><a href="iphone-application-development.php">iPhone</a></li>
+                      <!-- <li><a href="iphone-application-development.php">iPhone</a></li> -->
                       <li><a href="android-application-development.php">Android</a></li>
-                      <li><a href="ipad-application-development.php">iPad</a></li>
+                      <!-- <li><a href="ipad-application-development.php">iPad</a></li> -->
                       <li><a href="react-native-app-development.php">React Native</a></li>
                       <li><a href="hybrid-mobile-application-development.php">Hybrid</a></li>
                       <li><a href="ionic-mobile-app-development.php">Ionic</a></li>
@@ -266,7 +219,7 @@
                     <h4><a href="web-development-services.php">Web Development</a></h4>
                     <ul>
                       <li><a href="php-development.php">PHP</a></li>
-                      <li><a href="magento-development-services.php">Magento</a></li>
+                      <!-- <li><a href="magento-development-services.php">Magento</a></li> -->
                       <li><a href="java-script-development-company.php">JavaScript</a></li>
                       <li><a href="mean-stack-development.php">MEANStack</a></li>
                       <li><a href="mern-stack-development.php">MERNStack</a></li>
@@ -312,11 +265,11 @@
                     <i class="fa fa-arrow-down"></i>
                   </span>
                 </a>
-                <div class="sub-menu">
+                <div class="sub-menu pt-5">
                   <!-- item -->
                   <div class="sub-menu-item">
                     <h5><a href="seo-company-in-jaipur.php">SEO Services</a></h5>
-                    <ul>
+                    <!-- <ul>
                       <li><a href="seo-company-in-jaipur.php">Search Engine Optimization</a></li>
                       <li><a href="keyword-analysis-strategy-company-jaipur.php">Keyword Analysis</a></li>
                       <li><a href="on-page-optimization-services-jaipur.php">On Page Optimization Services</a></li>
@@ -329,13 +282,13 @@
                       <li><a href="video-promotion-service-and-video-marketing-company-jaipur.php">Video Promotion</a></li>
                       <li><a href="seo-outsourcing-company-in-jaipur.php">Seo Outsourcing</a></li>
                       <li><a href="review-rating-provider-services-jaipur.php">Reviews and Ratings</a></li>
-                    </ul>
+                    </ul> -->
                   </div>
                   <!-- end of item -->
                   <!-- item -->
                   <div class="sub-menu-item">
-                    <h4><a href="social-media-marketing-company-jaipur.php">SMM</a></h4>
-                    <ul>
+                    <h4><a href="social-media-marketing-company-jaipur.php">Social Media Marketing</a></h4>
+                    <!-- <ul>
                       <li><a href="social-media-marketing-company-jaipur.php">Social Media Marketing</a></li>
                       <li><a href="social-media-management-company-jaipur.php">Social Media Management</a></li>
                       <li><a href="brand-management-services-jaipur.php">Brand Management</a></li>
@@ -343,23 +296,23 @@
                       <li><a href="twitter-marketing-company-jaipur.php">Twitter Marketing</a></li>
                       <li><a href="youtube-marketing-company-jaipur.php">Youtube Marketing</a></li>
                       <li><a href="instagram-marketing-company-jaipur.php">Instagram Marketing</a></li>
-                    </ul>
+                    </ul> -->
                   </div>
                   <!-- end of item -->
                   <!-- item -->
                   <div class="sub-menu-item">
-                    <h5><a href="software-consulting.php">PPC</a></h5>
-                    <ul>
+                    <h5><a href="software-consulting.php">Search Engine Marketing</a></h5>
+                    <!-- <ul>
                       <li><a href="google-adwords-management-company-jaipur.php">Google Adwords</a></li>
                       <li><a href="facebook-paid-advertising-company-in-jaipur.php">Facebook Paid Advertising</a></li>
                       <li><a href="android-app-marketing-company-in-jaipur.php">Android App Marketing(CPI)</a></li>
                       <li><a href="ios-app-marketing-company-in-jaipur.php">ios App Marketing(CPI)</a></li>
                       <li><a href="ppc-management-services-in-jaipur.php">Pay Per Click(PPC)</a></li>
-                    </ul>
+                    </ul> -->
                   </div>
                   <!-- end of item -->
                   <!-- item -->
-                  <div class="sub-menu-item">
+                  <!-- <div class="sub-menu-item">
                     <h5>PACKAGES</h5>
                     <ul>
                       <li><a href="seo-packages.php">SEO Packages</a></li>
@@ -367,9 +320,9 @@
                       <li><a href="ppc-packages.php">PPC Packages</a></li>
                       <li><a href="plan-n-pricing.php">Digital Marketing Packages</a></li>
                     </ul>
-                  </div>
+                  </div> -->
                   <!-- end of item -->
-
+                
               </li>
               <li>
                 <a href="#" class="menu-link">
@@ -384,15 +337,15 @@
                   <div class="sub-menu-item">
                     <h5>Technologies</h5>
                     <ul>
-                      <li><a href="apple-watch-app-development.php">Apple Watch</a></li>
+                      <!-- <li><a href="apple-watch-app-development.php">Apple Watch</a></li> -->
                       <li><a href="aws-cloud-consulting.php">AWS</a></li>
                       <li><a href="big-data-solution.php">Big Data</a></li>
-                      <li><a href="bitcoin-app-development.php">Bitcoin</a></li>
+                      <!-- <li><a href="bitcoin-app-development.php">Bitcoin</a></li> -->
                       <li><a href="e-commerce-solutions.php">Ecommerce</a></li>
                       <li><a href="elearning-gamification.php">E-Learning</a></li>
                       <li><a href="enterprise-mobility.php">Enterprise Mobility</a></li>
-                      <li><a href="iot-app-development.php">IoT</a></li>
-                      <li><a href="tvOS-app-development.php">TvOS</a></li>
+                      <!-- <li><a href="iot-app-development.php">IoT</a></li> -->
+                      <!-- <li><a href="tvOS-app-development.php">TvOS</a></li> -->
                       <li><a href="machine-learning-solutions">Machine Learning</a></li>
                       <li><a href="artificial-intelligence-solutions.php">AI</a></li>
                       <li><a href="crm-development.php">CRM</a></li>
@@ -401,7 +354,7 @@
                   </div>
                   <!-- end of item -->
                   <!-- item -->
-                  <div class="sub-menu-item">
+                  <!-- <div class="sub-menu-item">
                     <h4><a href="on-demand-solutions.php">ON DEMAND SOLUTIONS</a></h4>
                     <ul>
                       <li><a href="food-portal.php">Food Delivery</a></li>
@@ -417,7 +370,7 @@
                       <li><a href="online-dating-app-development.php">Dating</a></li>
                       <li><a href="on-demand-laundry-app-development.php">Laundry</a></li>
                     </ul>
-                  </div>
+                  </div> -->
                   <!-- end of item -->
                   <!-- item -->
                   <div class="sub-menu-item">
@@ -427,38 +380,41 @@
                           https://www.octalsoftware.com/healthcare-solutions
   -->
                       <li><a href="healthcare-solutions.php">Healthcare</a></li>
+                      <li><a href="banking-finance-solutions.php">Banking/FinTech</a></li>
+                      <li><a href="transportation-automobile-solutions.php">Transportation/Logistics</a></li>
+                      <li><a href="travel-leisure-solutions.php">Travel</a></li>
+                      <li><a href="job-portal.php">Career</a></li>
+                      <li><a href="manufacturing-software-development.php">Manufacturing</a></li>
+                      <li><a href="edtech-app-development.php">EdTech</a></li>
+                      <li><a href="on-demand-solutions.php">On-Demand Development</a></li>
+                      <li><a href="on-demand-solutions.php">B2B & B2C</a></li>
+                      <li><a href="on-demand-solutions.php">Job Portal</a></li>
+                      <li><a href="on-demand-solutions.php">Marketplace</a></li>
+                      <li><a href="food-restaurant-solutions.php">Food & Restaurant</a></li>
+                      <li><a href="real-estate-housing-solutions.php">Real Estate</a></li>
+                      <li><a href="startup-product-development.php">Startup</a></li>
                       <!-- Ref From
                         https://www.leewayhertz.com/fintech-software-development/?utm_source=menu
                         https://www.octalsoftware.com/banking-finance-solutions
   -->
-                      <li><a href="banking-finance-solutions.php">Banking/FinTech</a></li>
-                      <li><a href="food-restaurant-solutions.php">Food & Restaurant</a></li>
-                      <li><a href="education-elearning-solutions.php">E-Learing</a></li>
-                      <li><a href="real-estate-housing-solutions.php">Real Estate</a></li>
+                      <!-- <li><a href="education-elearning-solutions.php">E-Learing</a></li> -->
                       <!-- Ref from https://www.leewayhertz.com/logistics-software-development/  
                         https://www.octalsoftware.com/transportation-automobile-solutions
                     -->
-                      <li><a href="transportation-automobile-solutions.php">Transportation/Logistics</a></li>
-                      <li><a href="travel-leisure-solutions.php">Travel</a></li>
-                      <li><a href="job-portal.php">Career</a></li>
-                      <li><a href="media-entertainment-solutions.php">Media & Enterainment</a></li>
-                      <li><a href="consumer-electronics.php">Consumer Electronics</a></li>
+                      <!-- <li><a href="media-entertainment-solutions.php">Media & Enterainment</a></li> -->
+                      <!-- <li><a href="consumer-electronics.php">Consumer Electronics</a></li> -->
                       <!-- ref from https://www.leewayhertz.com/insurance-software-development/ -->
-                      <li><a href="insurance-software-development.php">Insurance</a></li>
+                      <!-- <li><a href="insurance-software-development.php">Insurance</a></li> -->
                       <!-- ref from https://www.leewayhertz.com/manufacturing-software-development/ -->
-                      <li><a href="manufacturing-software-development.php">Manufacturing</a></li>
                       <!-- ref from https://www.leewayhertz.com/edtech-app-development/ -->
-                      <li><a href="edtech-app-development.php">EdTech</a></li>
                       <!-- ref from https://www.leewayhertz.com/startup-product-development/ -->
-                      <li><a href="startup-product-development.php">Startup</a></li>
-                      <li><a href="on-demand-solutions.php">On-Demand Development</a></li>
 
 
                     </ul>
                   </div>
                   <!-- end of item -->
                   <!-- item -->
-                  <div class="sub-menu-item">
+                  <!-- <div class="sub-menu-item">
                     <h4><a href="#">PORTALS</a></h4>
                     <ul>
                       <li><a href="b2b-and-b2c-portal.php">B2B & B2C</a></li>
@@ -471,84 +427,18 @@
                       <li><a href="price-comparison-portal.php">Price Comparison</a></li>
                       <li><a href="real-estate.php">Real Estate</a></li>
                     </ul>
-                  </div>
+                  </div> -->
                   <!-- end of item -->
 
                 </div>
               </li>
-              <li>
-                <a href="#" class="menu-link">
-                  HIRE US
-
-                  <span class="drop-icon">
-                    <i class="fa fa-arrow-down"></i>
-                  </span>
-                </a>
-                <div class="sub-menu">
-                  <!-- item -->
-                  <div class="sub-menu-item">
-                    <h5>MOBILE DEVELOPERS</h5>
-                    <ul>
-                      <li><a href="hire-mobile-app-developer.php">App Developer</a></li>
-                      <li><a href="hire-android-developer.php">Android Developer</a></li>
-                      <li><a href="hire-iPhone-iPad-developer.php">iPhone Developer</a></li>
-                      <li><a href="hire-ipad-app-developer.php">iPad Developer</a></li>
-                      <li><a href="hire-phonegap-developer.php">PhoneGap Developer</a></li>
-                      <li><a href="hire-windows-developer.php">Windows Developer</a></li>
-                    </ul>
-                  </div>
-                  <!-- end of item -->
-                  <!-- item -->
-                  <div class="sub-menu-item">
-                    <h4><a href="#">WEB DEVELOPER</a></h4>
-                    <ul>
-                      <li><a href="hire-php-developer.php">PHP Developer</a></li>
-                      <li><a href="hire-cakephp-developer.php">CakePHP Developer</a></li>
-                      <li><a href="hire-laravel-developer.php">Laravel Developer</a></li>
-                      <li><a href="hire-codeigniter-developer.php">CodeIgniter Developer</a></li>
-                      <li><a href="hire-yii-developer.php">Yii Developer</a></li>
-                      <li><a href="hire-zend-developer.php">Zend Developer</a></li>
-                    </ul>
-                  </div>
-                  <!-- end of item -->
-                  <!-- item -->
-                  <div class="sub-menu-item">
-                    <h4><a href="">E-COMMERCE DEVELOPER</a></h4>
-                    <ul>
-                      <li><a href="hire-drupal-developer.php">Durpal Developer</a></li>
-                      <li><a href="hire-joomla-developer.php">Joomla Developer</a></li>
-                      <li><a href="hire-wordpress-developer.php">Wordpress Developer</a></li>
-                      <li><a href="hire-zencart-developer.php">Zencart Developer</a></li>
-                      <li><a href="hire-magento-developer.php">Magento Developer</a></li>
-                      <li><a href="hire-ror-developer.php">RoR Developer</a></li>
-                    </ul>
-                  </div>
-                  <!-- end of item -->
-                  <!-- item -->
-                  <div class="sub-menu-item">
-                    <h4><a href="#">DEDICATED RESOURCES</a></h4>
-                    <ul>
-                      <li><a href="#">Dedicated Developers</a></li>
-                      <li><a href="hire-dedicated-python-developer.php">Python Developer</a></li>
-                      <li><a href="hire-game-developer.php">Game Developer</a></li>
-                      <li><a href="hire-java-developer.php">Java Developer</a></li>
-                      <li><a href="hire-asp-net-developer.php">ASP.Net Developer</a></li>
-                      <li><a href="hire-symfony-developer.php">Symfony Developer</a></li>
-                      <li><a href="hire-reactJs-developer.php">ReactJS Developer</a></li>
-                      <li><a href="hire-nodeJs-developer.php">Node Js Developer</a></li>
-                      <li><a href="hire-angularJS-developer.php">Angular Developer</a></li>
-                    </ul>
-                  </div>
-                  <!-- end of item -->
-
-                </div>
-              </li>
-              <li>
+              
+              <!-- <li>
                 <a href="our-portfolio.php">PORTFOLIO</a>
               </li>
               <li>
                 <a href="contact-us.php">Contact Us</a>
-              </li>
+              </li> -->
               <!-- <li>
                 <a style="font-size: 14px; background-image: linear-gradient(90deg, #708409 0%, #b7d327 100%); padding: 13px 22px; border-radius: 3px; color: #fff; font-weight: 500; margin-top: 10%;" class="quote-btn" href="#">Get A Quote</a>
               </li> -->

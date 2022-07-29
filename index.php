@@ -4,12 +4,12 @@
             <div class="rs-banner style4">
                 <div class="container">
                     <div class="banner-content">
-                        <span class="sub-title">One Destination for all your digital development </span>
-                       <h1 class="title">Software development and web devlopment company</h1>
-                        <p class="desc">
+                        <h1 class="title main_title">Software development and web devlopment company</h1>
+                        <!-- <span class="sub-title">One Destination for all your digital development </span> -->
+                        <p class="desc mt-5">
                             Groot Software is a team of professional programmers and developers who hold expertise in all type of digital development including software, app and web development.
                         </p>
-                        <ul class="banner-btn">
+                        <!-- <ul class="banner-btn">
                             <li><a class="readon discover" href="about.php">Discover More</a></li>
                             <li>
                                 <div class="rs-videos">
@@ -20,7 +20,7 @@
                                     </div>
                                 </div> 
                             </li>
-                        </ul>
+                        </ul> -->
                     </div>
                 </div>
             </div>
@@ -30,12 +30,14 @@
             <div class="rs-services style4 gray-color pt-110 pb-120 md-pt-75 md-pb-80">
                 <div class="container">
                     <div class="sec-title2 text-center mb-45">
-                        <span class="sub-text">Services</span>
+                        <!-- <span class="sub-text">Services</span> -->
+                        <span class="sub-title one-des">One Destination for all your digital development </span>
+
                         <h2 class="title">
                            Our Major Services
                         </h2>
                         <div class="desc desc-text">
-                            We can develop various sort of digital produts using different programming language of your choice. Our major areas of services includes but is not limited to
+                            We develop various sort of digital products using different programming languages as your project demands. Our major areas of services includes but is not limited to
                         </div>
                     </div>
                     <div class="row">
@@ -99,14 +101,14 @@
                         <div class="col-lg-5">
                             <div class="sec-title2 mb-30">
                                 <div class="sub-text">About Groot Software</div>
-                                <h2 class=" title title3 pb-20">
-                                    Proudly emerged as a renowned name in the industry in the short time since arrival.
-                                </h2>
+                                <h4 class="">
+                                    Proudly emerged as a renowned name in software and web development industry in the short time since arrival.
+                                </h4>
                                 <div class="desc desc2">
                                     We only started a few years ago, but the expertise, dedication, and consistency of our team helped us earn a reputation among acclaimed software development companies of India and the US.
                                 </div>
                                 <div class="btn-part mt-40">
-                                    <a class="readon discover more" href="contact.php">About Us</a>
+                                    <a class="readon discover more" href="about-us.php">About Us</a>
                                 </div>
                             </div>
                         </div>
@@ -131,25 +133,25 @@
                     <div class="row">
                         <div class="col-lg-3 md-pb-40">
                            <div class="box">
-                               <div class="chart" data-percent="95" data-scale-color="#ffb400"><span>95%</span></div>
+                               <div class="chart" data-percent="100" data-scale-color="#ffb400"><span>95%</span></div>
                                <h2 class="title">Satisfied Clients</h2>
                            </div> 
                         </div>
                         <div class="col-lg-3 md-pb-40">
                            <div class="box">
-                               <div class="chart" data-percent="80" data-scale-color="#ffb400"><span>80%</span></div>
-                               <h2 class="title">Successfully Completed Projects</h2>
+                               <div class="chart" data-percent="100" data-scale-color="#ffb400"><span>80+</span></div>
+                               <h2 class="title">Completed Projects</h2>
                            </div> 
                         </div>
                         <div class="col-lg-3 md-pb-40">
                            <div class="box">
-                               <div class="chart" data-percent="76" data-scale-color="#ffb400"><span>76%</span></div>
-                               <h2 class="title">Current Projects</h2>
+                               <div class="chart" data-percent="100" data-scale-color="#ffb400"><span>6+</span></div>
+                               <h2 class="title">Industries Served</h2>
                            </div> 
                         </div>
                         <div class="col-lg-3">
                            <div class="box">
-                               <div class="chart" data-percent="88" data-scale-color="#ffb400"><span>88%</span></div>
+                               <div class="chart" data-percent="100" data-scale-color="#ffb400"><span>15</span></div>
                                <h2 class="title">Expert Team Member</h2>
                            </div> 
                         </div>
@@ -162,9 +164,9 @@
             <div class="rs-services style4 modify1 gray-color pt-110 pb-120 md-pt-75 md-pb-40 sm-pb-70">
                 <div class="container">
                     <div class="sec-title2 text-center mb-45">
-                        <span class="sub-text">Some programming languages we are expert in.</span>
-                        <h2 class="title">
-                           You can trust us with your projects in any of the following programming languages.
+                        <span class="sub-text">Programming languages we expertize in.</span>
+                        <h2>
+                           You can trust us with following programming languages.
                         </h2>
                     </div>
                     <div class="row">
@@ -190,7 +192,7 @@
                                     <img src="assets/images/services/style5/2.png" alt="">
                                 </div>
                                 <div class="services-content">
-                                    <h2 class="title"><a href="web-development.php">Java Programming</a></h2>
+                                    <h2 class="title"><a href="web-development.php">Java</a></h2>
                                     <p class="desc">
                                         We have programmers who can deliver your Java programming project in no time.
                                     </p>
@@ -273,9 +275,9 @@
             <div class="rs-call-action bg8 pt-120 pb-120 md-pt-75 md-pb-80">
                 <div class="container">
                     <div class="sec-title2 text-center">
-                        <span class="sub-text white-color">Let’s Talk</span>
+                        <p class="lets-talk">Let’s Talk</p>
                         <h2 class="title title4 white-color">
-                           Got a project? Let's get you connected with our experts and make your vision a reality.
+                           Got a web development project? Let's get you connected with our experts and transform your vision into reality.
                         </h2>
                         <div class="call-btn mt-30">
                             <a class="readon discover started" href="contact.php">Get in Touch</a>
@@ -292,7 +294,7 @@
                         <div class="col-lg-5">
                             <div class="process-wrap bg9">
                                 <div class="sec-title mb-30">
-                                    <div class="sub-text new">How We Works</div>
+                                    <div class="sub-text new">How We Work</div>
                                     <h2 class="title title4 white-color pb-20">
                                         How Groot Software can help your business
                                     </h2>
@@ -327,9 +329,9 @@
                                                 02
                                             </div>
                                             <div class="number-title">
-                                                <h3 class="title">Deciding the Technology and Plan</h3>
+                                                <h3 class="title">Deciding the Technology & Plan</h3>
                                             </div>
-                                            <p class="number-txt">Our experts then process the information and prepare a blueprint accordingly.</p>
+                                            <p class="number-txt">Our experts then process the information and prepare a blueprint with required technology.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -340,9 +342,9 @@
                                                 03
                                             </div>
                                             <div class="number-title">
-                                                <h3 class="title">Testing & Trying</h3>
+                                                <h3 class="title">Design and Development</h3>
                                             </div>
-                                            <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh theo lacus egestas.</p>
+                                            <p class="number-txt">Once finalized, our programmers then start transforming the project into reality.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -353,9 +355,9 @@
                                                 04
                                             </div>
                                             <div class="number-title">
-                                                <h3 class="title">Execute & install</h3>
+                                                <h3 class="title">Testing and Deployment</h3>
                                             </div>
-                                            <p class="number-txt">Quisque placerat vitae lacus ut scelerisque. Fusce luctus odio ac nibh theo lacus egestas.</p>
+                                            <p class="number-txt">And finally the product is Quality analyzed for any bugs or errors and then deployed for users.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -367,7 +369,7 @@
             <!-- Process Section End -->
 
             <!-- Case Study Section Start -->
-            <div class="rs-case-study primary-background">
+            <!-- <div class="rs-case-study primary-background">
                 <div class="row margin-0 align-items-center">
                     <div class="col-lg-4 padding-0">
                         <div class="case-study bg12 mod">
@@ -383,9 +385,9 @@
                         </div>
                     </div>
                     <div class="col-lg-8 padding-0">
-                        <div class="case-study-wrap">
+                        <div class="case-study-wrap"> -->
                             <!-- Project Section Start -->
-                            <div class="rs-project style3 modify1 mod md-pt-0">
+                            <!-- <div class="rs-project style3 modify1 mod md-pt-0">
                                 <div class="rs-carousel owl-carousel" data-loop="true" data-items="4" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="3" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="4" data-md-device-nav="true" data-md-device-dots="false">
                                     <div class="project-item">
                                         <div class="project-img">
@@ -454,10 +456,10 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>
+                            </div> -->
                             <!-- Project Section End -->
-                        </div>
-                    </div>
+                        <!-- </div>
+                    </div> -->
                 </div>
             </div>
             <!-- Case Study Section Start -->
@@ -614,7 +616,7 @@
             <!-- Team Section End -->
 
             <!-- Testimonial Section Start -->
-            <div class="rs-testimonial">
+            <div class="rs-testimonial mb-5">
                 <div class="container">
                     <div class="testi-effects-layer bg10">
                         <div class="row align-items-center">
@@ -622,7 +624,7 @@
                                 <div class="sec-title mb-60">
                                     <div class="sub-text new">Client's Review</div>
                                     <h2 class="title title4 white-color pb-20">
-                                        What do people praise about braintech?
+                                        What do people praise about Groot Software?
                                     </h2>
                                 </div>
                             </div>
@@ -697,7 +699,7 @@
             <!-- Testimonial Section End -->
 
             <!-- Pricing section start -->
-            <div class="rs-pricing style2  modify1  gray-color pt-110 pb-150 md-pt-75 md-pb-80">
+            <!-- <div class="rs-pricing style2  modify1  gray-color pt-110 pb-150 md-pt-75 md-pb-80">
                 <div class="container">
                     <div class="sec-title2 text-center mb-30">
                         <div class="sub-text">Pricing</div>
@@ -792,7 +794,7 @@
                        </div>
                    </div>
                 </div>
-            </div>
+            </div> -->
             <!-- Pricing section end -->
 
             <!-- Technology Section Start -->
@@ -809,7 +811,7 @@
                             <div class="technology-wrap">
                                 <div class="rs-grid-figure">
                                      <div class="logo-img">
-                                         <a href="#">
+                                         <a >
                                            <img class="hover-img" src="assets/images/technology/style4/hover-img/1.png" alt="hover-image">
                                            <img class="main-img" src="assets/images/technology/style4/main-img/1.png" alt="hover-image">
                                          </a>
@@ -824,7 +826,7 @@
                             <div class="technology-wrap">
                                 <div class="rs-grid-figure">
                                      <div class="logo-img">
-                                         <a href="#">
+                                         <a >
                                            <img class="hover-img" src="assets/images/technology/style4/hover-img/2.png" alt="grid-image">
                                            <img class="main-img" src="assets/images/technology/style4/main-img/2.png" alt="grid-image">
                                          </a>
@@ -839,7 +841,7 @@
                             <div class="technology-wrap">
                                 <div class="rs-grid-figure">
                                      <div class="logo-img">
-                                         <a href="#">
+                                         <a >
                                            <img class="hover-img" src="assets/images/technology/style4/hover-img/3.png" alt="grid-image">
                                            <img class="main-img" src="assets/images/technology/style4/main-img/3.png" alt="grid-image">
                                          </a>
@@ -854,7 +856,7 @@
                             <div class="technology-wrap">
                                 <div class="rs-grid-figure">
                                      <div class="logo-img">
-                                         <a href="#">
+                                         <a >
                                            <img class="hover-img" src="assets/images/technology/style4/hover-img/4.png" alt="grid-image">
                                            <img class="main-img" src="assets/images/technology/style4/main-img/4.png" alt="grid-image">
                                          </a>
@@ -869,7 +871,7 @@
                             <div class="technology-wrap">
                                 <div class="rs-grid-figure">
                                      <div class="logo-img">
-                                         <a href="#">
+                                         <a >
                                            <img class="hover-img" src="assets/images/technology/style4/hover-img/5.png" alt="grid-image">
                                            <img class="main-img" src="assets/images/technology/style4/main-img/5.png" alt="grid-image">
                                          </a>
@@ -884,7 +886,7 @@
                             <div class="technology-wrap">
                                 <div class="rs-grid-figure">
                                      <div class="logo-img">
-                                         <a href="#">
+                                         <a >
                                            <img class="hover-img" src="assets/images/technology/style4/hover-img/6.png" alt="grid-image">
                                            <img class="main-img" src="assets/images/technology/style4/main-img/6.png" alt="grid-image">
                                          </a>
@@ -1023,8 +1025,9 @@
             
             <!-- Partner Start -->
             <div class="rs-partner pt-80 pb-70">
-                <div class="container">
-                    <div class="rs-carousel owl-carousel" data-loop="true" data-items="5" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="2" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="3" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="3" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="5" data-md-device-nav="false" data-md-device-dots="false">
+                <h4 class="text-white text-center partner_head">Organizations we are connected with</h4>
+                <div class="container mt-5">
+                    <div class="rs-carousel owl-carousel" data-loop="true" data-items="5" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="2500" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="2" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="3" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="3" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="5" data-md-device-nav="false" data-md-device-dots="false">
                         <div class="partner-item">
                             <div class="logo-img">
                                 <a href="https://rstheme.com/">

@@ -12109,3 +12109,24 @@ body .search-modal .close:hover {
 .picdimantion {
     padding-left: 6px;
 }
+
+.main_title{
+    font-size: 40px !important;
+}
+
+.one-des{
+    display: inline-block;
+    margin-bottom: 20px ;
+}
+
+.lets-talk{
+    /* background: white !important; */
+    /* padding: 10px; */
+    color: white;
+    font-size: 20px;
+
+}
+
+.partner_head{
+    margin-bottom: 70px;
+}
