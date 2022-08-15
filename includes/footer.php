@@ -11,7 +11,7 @@
                               </div>
                               <ul class="footer-social md-mb-30">  
                                   <li><a href="https://www.facebook.com/GrootSoftware/" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="https://twitter.com/grootsoftwa" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                            <li><a href="https://twitter.com/grootsoftware" target="_blank"><i class="fa fa-twitter"></i></a></li>
                                             <li><a href="https://github.com/grootsoftware" target="_blank"><i class="fa fa-git"></i></a></li>
                                             <li><a href="https://www.instagram.com/grootsoftware/" target="_blank"><i class="fa fa-instagram"></i></a></li>
                                             <li><a href="https://www.linkedin.com/in/grootsoftware/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
@@ -33,7 +33,7 @@
                             <ul class="address-widget">
                                 <li>
                                     <i class="flaticon-location"></i>
-                                    <div class="desc"> 48, Sultan Nagar, Jaipur, Rajasthan 302019 </div>
+                                    <div class="desc"> 73/34, Paramhans Marg, Mansarovar, Jaipur </div>
                                 </li>
                                 <li>
                                     <i class="flaticon-call"></i>
@@ -44,7 +44,7 @@
                                 <li>
                                     <i class="flaticon-email"></i>
                                     <div class="desc">
-                                        <a href="mailto:info@grootsoftware.com">info@grootsoftware.com</a>
+                                        <a href="mailto:info@grootsoftware.com"> info@grootsoftware.com</a>
                                     </div>
                                 </li>
                                 <li>
