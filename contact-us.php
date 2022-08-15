@@ -94,7 +94,7 @@
                 </div>
                 <div class="map-canvas pt-120 md-pt-80">
                     <!-- <iframe src="https://maps.google.com/maps?q=rstheme&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe> -->
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3644149.884880852!2d73.52783886249998!3d26.879996600000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db5e9425b2f0d%3A0xaee746550ac60d0c!2sGroot%20Software!5e0!3m2!1sen!2sin!4v1643348767350!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.46272453684!2d75.76728761409753!3d26.857035968952257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db5da1022f94d%3A0xb000ff55c622564d!2sGroot%20Software!5e0!3m2!1sen!2sin!4v1660543184660!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                     </div> 
             </div>
             <!-- Contact Section Start -->

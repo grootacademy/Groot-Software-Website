@@ -91,7 +91,7 @@
                 <ul class="topbar-contact">
                   <li>
                     <i class="flaticon-email"></i>
-                    <a href="mailto: info@grootsoftware.com">info@grootsoftware.com</a>
+                    <a href="mailto:info@grootsoftware.com ">info@grootsoftware.com</a>
                   </li>
                   <li>
                     <i class="flaticon-call"></i>
@@ -332,6 +332,7 @@
                     <i class="fa fa-arrow-down"></i>
                   </span>
                 </a>
+
                 <div class="sub-menu">
                   <!-- item -->
                   <div class="sub-menu-item">
@@ -412,6 +413,8 @@
 
                     </ul>
                   </div>
+
+                  
                   <!-- end of item -->
                   <!-- item -->
                   <!-- <div class="sub-menu-item">
@@ -442,6 +445,9 @@
               <!-- <li>
                 <a style="font-size: 14px; background-image: linear-gradient(90deg, #708409 0%, #b7d327 100%); padding: 13px 22px; border-radius: 3px; color: #fff; font-weight: 500; margin-top: 10%;" class="quote-btn" href="#">Get A Quote</a>
               </li> -->
+              <li>
+                <a href="contact-us.php">Contact Us</a>
+              </li>
             </ul>
           </div>
         </nav>
