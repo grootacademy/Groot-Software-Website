@@ -465,7 +465,7 @@
             <!-- Case Study Section Start -->
 
             <!-- Team Section Start -->
-            <div id="rs-team" class="rs-team style2 pt-110 pb-120 md-pt-75 md-pb-80">
+            <!-- <div id="rs-team" class="rs-team style2 pt-110 pb-120 md-pt-75 md-pb-80">
                 <div class="container"> 
                     <div class="sec-title2 text-center mb-30">
                         <div class="sub-text">Team</div>
@@ -612,7 +612,7 @@
                         </div>
                      </div>
                 </div>
-            </div>
+            </div> -->
             <!-- Team Section End -->
 
             <!-- Testimonial Section Start -->
@@ -657,7 +657,7 @@
                                                 </div>
                                             </div>
                                             <div class="item-content-basic">
-                                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/quote3.png" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
+                                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/quote3.png" alt="">Good website development services with great project assistance and team support. These guys are amazing in at developing web solutions.</div>
                                             </div>
                                         </div>
                                         <div class="testi-item">
@@ -671,7 +671,7 @@
                                                 </div>
                                             </div>
                                             <div class="item-content-basic">
-                                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/quote3.png" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
+                                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/quote3.png" alt="">Most cooperative web developer and web designer  company in jaipur. They are very professional in their work and have very experienced developers in team.</div>
                                             </div>
                                         </div>
                                         <div class="testi-item">
@@ -685,7 +685,21 @@
                                                 </div>
                                             </div>
                                             <div class="item-content-basic">
-                                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/quote3.png" alt="">Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway.</div>
+                                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/quote3.png" alt="">Best app development company i have worked with for my business. The mobile app operates very smoothly functions efficiently. Thanks Groot software for making such a great app for my business.</div>
+                                            </div>
+                                        </div>
+                                        <div class="testi-item">
+                                            <div class="testi-content">
+                                                <div class="images-wrap">
+                                                    <img src="assets/images/testimonial/main-home/7.png" alt="">
+                                                </div>
+                                                <div class="testi-information">
+                                                    <div class="testi-name">RAJENDRA KUMAR</div>
+                                                    <span class="testi-title">Business Owner</span>
+                                                </div>
+                                            </div>
+                                            <div class="item-content-basic">
+                                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/quote3.png" alt="">The best software development and android app development companies in Jaipur. I got all my work done in the given time. The developers are great for beginners who don't have much idea about programming, as they guide you thoroughly and explain every detail with patience and smartly. I recommend Groot Software for any digital development work in Jaipur.</div>
                                             </div>
                                         </div>
                                     </div>
@@ -904,7 +918,7 @@
 
 
             <!-- Blog Section Start -->
-            <div id="rs-blog" class="rs-blog pt-110 pb-120 md-pt-75 md-pb-80">
+            <!-- <div id="rs-blog" class="rs-blog pt-110 pb-120 md-pt-75 md-pb-80">
                 <div class="container">  
                     <div class="sec-title2 text-center mb-30">
                         <span class="sub-text">Blogs</span>
@@ -1020,7 +1034,7 @@
                         </div>
                      </div>
                 </div>
-            </div>
+            </div> -->
             <!-- Blog Section End -->
             
             <!-- Partner Start -->
