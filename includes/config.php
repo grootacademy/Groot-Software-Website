@@ -61,12 +61,12 @@ define("CDN_PATH", $cdn_path);
 // $password = "";
 // $my_db = 'lifelineprotect';
 
-// Create connection
+// // Create connection
 // $conn = new mysqli($servername, $username, $password,$my_db);
 
-// Check connection
+// // Check connection
 // if ($conn->connect_error) {
 //   die("Connection failed: " . $conn->connect_error);
-// }
+}
 
 ?>
