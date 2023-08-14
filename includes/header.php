@@ -100,7 +100,7 @@
       <header id="rs-header" class="rs-header style2">
         <!-- Topbar Area Start -->
         <div class="topbar-area style2">
-          <div class="container">
+          <div class="container-fluid">
             <div class="row y-middle">
               <div class="col-lg-8">
                 <ul class="topbar-contact">
