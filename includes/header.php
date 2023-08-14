@@ -114,7 +114,7 @@
                   </li>
                   <li>
                     <i class="flaticon-location"></i>
-                    Plot no 26, Mansarovar Link Rd, Jaipur, Rajasthan 302019
+                    Plot no 26, Mansarovar Link Rd, Jaipur
                   </li>
                 </ul>
               </div>
