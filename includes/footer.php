@@ -34,7 +34,7 @@
                            <ul class="address-widget">
                                <li>
                                    <i class="flaticon-location"></i>
-                                   <div class="desc"> 73/34, Paramhans Marg, Mansarovar, Jaipur </div>
+                                   <div class="desc"> Plot no 26, Mansarovar Link Rd, Jaipur, Rajasthan 302019 </div>
                                </li>
                                <li>
                                    <i class="flaticon-call"></i>

@@ -48,7 +48,7 @@
                                    </div>
                                    <div class="address-text">
                                        <span class="label">Address:</span>
-                                       <div class="desc"> 73, 34, Paramhans Marg, Mansarovar Sector 7, Agarwal Farm, Barh Devariya, Mansarovar, Jaipur, Rajasthan 302020</div>
+                                       <div class="desc">Plot no 26, JAIPUR ELECTRONIC MARKET, Mansarovar Link Rd, in front of manglam, Mohan Nagar, Triveni Nagar, Arjun Nagar, Jaipur, Rajasthan 302019</div>
                                    </div>
                                </div>
                            </div>
