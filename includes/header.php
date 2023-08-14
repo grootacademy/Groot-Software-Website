@@ -1,25 +1,27 @@
-<?php include 'connection.php';?>
+<?php include 'connection.php'; ?>
 <!DOCTYPE html>
 <html lang="zxx">
 
 <head>
   <!-- meta tag -->
   <meta charset="utf-8">
-<?php
-      $page_name= basename($_SERVER['PHP_SELF']);
-      // echo $page_name;
-      $query=sprintf("select * from meta_description where page_name='%s'",mysqli_real_escape_string($conn,$page_name));
-      // echo $query;
-      $description="";
-      // $qr="select * from meta_description where page_name";
-      $result = mysqli_query($conn,$query,MYSQLI_STORE_RESULT);
-      while ($row = mysqli_fetch_assoc($result)) {
-        $description= $row['description'];
+  <!-- <?php
+        // $page_name= basename($_SERVER['PHP_SELF']);
+        // // echo $page_name;
+        // $query=sprintf("select * from meta_description where page_name='%s'",mysqli_real_escape_string($conn,$page_name));
+        // // echo $query;
+        // $description="";
+        // // $qr="select * from meta_description where page_name";
+        // $result = mysqli_query($conn,$query,MYSQLI_STORE_RESULT);
+        // while ($row = mysqli_fetch_assoc($result)) {
+        //   $description= $row['description'];
+        // <?php echo $description; 
+        ?>
       
     }
-?>
-  <title>Groot Software</title>
-  <meta name="description" content="<?php echo $description; ?>">
+?> -->
+  <title>Groot Software :- Best Web Desining and Development company in Jaipur</title>
+  <!-- <meta name="description" content=""> -->
   <!-- responsive tag -->
   <meta http-equiv="x-ua-compatible" content="ie=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -61,20 +63,19 @@
     .menu_thumbnail {
       width: 70% !important;
     }
-    .quote-btn-wide{
+
+    .quote-btn-wide {
       font-size: 14px;
-    background-image: linear-gradient(90deg, #708409 0%, #b7d327 100%);
-    padding: 13px 22px;
-    border-radius: 3px;
-    color: #fff;
-    font-weight: 500;
-    margin-top: 10%;
-    width: 200px !important;
-    display: inline-block;
-    text-align: center;
-}
-    
-    
+      background-image: linear-gradient(90deg, #708409 0%, #b7d327 100%);
+      padding: 13px 22px;
+      border-radius: 3px;
+      color: #fff;
+      font-weight: 500;
+      margin-top: 10%;
+      width: 200px !important;
+      display: inline-block;
+      text-align: center;
+    }
   </style>
   <!--[if lt IE 9]>
             <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -109,7 +110,7 @@
                   </li>
                   <li>
                     <i class="flaticon-call"></i>
-                    <a href="tel:+917790847091"> +91 7790847091</a>
+                    <a href="tel:+917231968131"> +91 7231968131</a>
                   </li>
                   <li>
                     <i class="flaticon-location"></i>
@@ -171,7 +172,7 @@
                   <!-- item -->
                   <div class="sub-menu-item">
                     <!-- <h4>AWARDS</h4> -->
-                    <h4 ></h4>
+                    <h4></h4>
                     <ul>
                       <!-- <li><a href="our-strategic-alliance.php">Alliances</a></li> -->
                       <!-- <li><a href="industry-ranking-and-awards.php">Awards</a></li> -->
@@ -196,13 +197,13 @@
                   <div class="sub-menu-item">
                     <ul>
                       <li><a class="quote-btn-wide" href="career-at-groot-software.php">Join Our Team</a></li>
-                      <li><a  class="quote-btn-wide" href="https://www.grootacademy.com/">Learn at Groot</a></li>
+                      <li><a class="quote-btn-wide" href="https://www.grootacademy.com/">Learn at Groot</a></li>
                     </ul>
                   </div>
                   <!-- end of item -->
 
               </li>
-             
+
               <li>
                 <a href="#" class="menu-link">
                   Services
@@ -261,17 +262,24 @@
                   <div class="sub-menu-item">
                     <h5>MicroSoft Solutions</h5>
                     <ul>
-                      <li><a href="asp-net-development-services.php">Asp.Net</a></li>
+                      <!-- <li><a href="asp-net-development-services.php">Asp.Net</a></li>
                       <li><a href="sharepoint-development-solutions.php">Sharpoint</a></li>
                       <li><a href="windows-azure-development-services.php">Azure</a></li>
-                      <li><a href=dynamics-crm-solutions.php">Dynamics CRM</a></li>
+                      <li><a href="dynamics-crm-solutions.php">Dynamics CRM</a></li>
                       <li><a href="microsoft-sitecore-cms-development.php">Sitecore CMS</a></li>
-                      <li><a href="microsoft-sitecore-cms-development.php">Site CRM</a></li>
+                      <li><a href="microsoft-sitecore-cms-development.php">Site CRM</a></li> -->
+                      <li><a href="#">Asp.Net</a></li>
+                      <li><a href="#">Sharpoint</a></li>
+                      <li><a href="#">Azure</a></li>
+                      <li><a href="#">Dynamics CRM</a></li>
+                      <li><a href="#">Sitecore CMS</a></li>
+                      <li><a href="#">Site CRM</a></li>
                     </ul>
                   </div>
                   <!-- end of item -->
 
               </li>
+             
               <li>
                 <a href="#" class="menu-link">
                   SEO/SMO/PPC
@@ -315,7 +323,7 @@
                   <!-- end of item -->
                   <!-- item -->
                   <div class="sub-menu-item">
-                    <h5><a href="software-consulting.php">Search Engine Marketing</a></h5>
+                    <h5><a href="#">Search Engine Marketing</a></h5>
                     <!-- <ul>
                       <li><a href="google-adwords-management-company-jaipur.php">Google Adwords</a></li>
                       <li><a href="facebook-paid-advertising-company-in-jaipur.php">Facebook Paid Advertising</a></li>
@@ -336,7 +344,7 @@
                     </ul>
                   </div> -->
                   <!-- end of item -->
-                
+
               </li>
               <li>
                 <a href="#" class="menu-link">
@@ -428,7 +436,7 @@
                     </ul>
                   </div>
 
-                  
+
                   <!-- end of item -->
                   <!-- item -->
                   <!-- <div class="sub-menu-item">
@@ -449,7 +457,7 @@
 
                 </div>
               </li>
-              
+
               <!-- <li>
                 <a href="our-portfolio.php">PORTFOLIO</a>
               </li>

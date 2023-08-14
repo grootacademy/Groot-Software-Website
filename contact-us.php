@@ -30,7 +30,7 @@
                                    </div>
                                    <div class="address-text">
                                         <span class="label">Phone:</span>
-                                        <a href="tel:+91-7790847091">+91-7790847091</a>
+                                        <a href="tel:+91-7231968131">+91-7231968131</a>
                                    </div>
                                </div>
                                <div class="address-box mb-25">
@@ -94,7 +94,7 @@
                 </div>
                 <div class="map-canvas pt-120 md-pt-80">
                     <!-- <iframe src="https://maps.google.com/maps?q=rstheme&amp;t=&amp;z=13&amp;ie=UTF8&amp;iwloc=&amp;output=embed"></iframe> -->
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.46272453684!2d75.76728761409753!3d26.857035968952257!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db5da1022f94d%3A0xb000ff55c622564d!2sGroot%20Software!5e0!3m2!1sen!2sin!4v1660543184660!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.0056663398627!2d75.77327287379747!3d26.871561061860866!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x396db5e458a8e5c1%3A0xb39a0134f5dbcb!2sFull%20stack%20development%20training%20by%20Infique%20classes!5e0!3m2!1sen!2sin!4v1691999057997!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                     </div> 
             </div>
             <!-- Contact Section Start -->
