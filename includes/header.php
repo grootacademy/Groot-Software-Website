@@ -279,7 +279,7 @@
                   <!-- end of item -->
 
               </li>
-             
+
               <li>
                 <a href="#" class="menu-link">
                   SEO/SMO/PPC
@@ -361,39 +361,39 @@
                     <h5>Technologies</h5>
                     <ul>
                       <!-- <li><a href="apple-watch-app-development.php">Apple Watch</a></li> -->
-                      <li><a href="aws-cloud-consulting.php">AWS</a></li>
-                      <li><a href="big-data-solution.php">Big Data</a></li>
+                      <li><a href="#">AWS</a></li>
+                      <li><a href="#">Big Data</a></li>
                       <!-- <li><a href="bitcoin-app-development.php">Bitcoin</a></li> -->
-                      <li><a href="e-commerce-solutions.php">Ecommerce</a></li>
-                      <li><a href="elearning-gamification.php">E-Learning</a></li>
-                      <li><a href="enterprise-mobility.php">Enterprise Mobility</a></li>
+                      <li><a href="#">Ecommerce</a></li>
+                      <li><a href="#">E-Learning</a></li>
+                      <li><a href="#">Enterprise Mobility</a></li>
                       <!-- <li><a href="iot-app-development.php">IoT</a></li> -->
                       <!-- <li><a href="tvOS-app-development.php">TvOS</a></li> -->
-                      <li><a href="machine-learning-solutions">Machine Learning</a></li>
-                      <li><a href="artificial-intelligence-solutions.php">AI</a></li>
-                      <li><a href="crm-development.php">CRM</a></li>
+                      <li><a href="#">Machine Learning</a></li>
+                      <li><a href="#">AI</a></li>
+                      <li><a href="#">CRM</a></li>
 
                     </ul>
                   </div>
                   <!-- end of item -->
                   <!-- item -->
-                  <!-- <div class="sub-menu-item">
-                    <h4><a href="on-demand-solutions.php">ON DEMAND SOLUTIONS</a></h4>
+                  <div class="sub-menu-item">
+                    <h4><a href="#">ON DEMAND SOLUTIONS</a></h4>
                     <ul>
-                      <li><a href="food-portal.php">Food Delivery</a></li>
-                      <li><a href="ewallet-app-development.php">E-Wallet</a></li>
-                      <li><a href="on-demand-taxi-booking-app-development.php">Taxi Booking</a></li>
-                      <li><a href="sports-betting-app-development.php">Supports Betting</a></li>
-                      <li><a href="grocery-delivery-app-development.php">Gorocery Delivery</a></li>
-                      <li><a href="handyman-on-demand-app-development.php">Handymen</a></li>
-                      <li><a href="on-demand-medicine-delivery-app-development.php">Medicine Delivery</a></li>
-                      <li><a href="on-demand-car-wash-app-development.php">Car Wash</a></li>
-                      <li><a href="fantasy-sports-application-development.php">Fantasy Sports</a></li>
-                      <li><a href="elearning-app-development.php">eLearning</a></li>
-                      <li><a href="online-dating-app-development.php">Dating</a></li>
-                      <li><a href="on-demand-laundry-app-development.php">Laundry</a></li>
+                      <li><a href="#">Food Delivery</a></li>
+                      <li><a href="#">E-Wallet</a></li>
+                      <li><a href="#">Taxi Booking</a></li>
+                      <li><a href="#">Supports Betting</a></li>
+                      <li><a href="#">Gorocery Delivery</a></li>
+                      <li><a href="#">Handymen</a></li>
+                      <li><a href="#">Medicine Delivery</a></li>
+                      <li><a href="#">Car Wash</a></li>
+                      <li><a href="#">Fantasy Sports</a></li>
+                      <li><a href="#">eLearning</a></li>
+                      <li><a href="#">Dating</a></li>
+                      <li><a href="#">Laundry</a></li>
                     </ul>
-                  </div> -->
+                  </div>
                   <!-- end of item -->
                   <!-- item -->
                   <div class="sub-menu-item">
@@ -402,32 +402,32 @@
                       <!-- Ref From https://www.leewayhertz.com/healthcare-software-development/
                           https://www.octalsoftware.com/healthcare-solutions
   -->
-                      <li><a href="healthcare-solutions.php">Healthcare</a></li>
-                      <li><a href="banking-finance-solutions.php">Banking/FinTech</a></li>
-                      <li><a href="transportation-automobile-solutions.php">Transportation/Logistics</a></li>
-                      <li><a href="travel-leisure-solutions.php">Travel</a></li>
-                      <li><a href="job-portal.php">Career</a></li>
-                      <li><a href="manufacturing-software-development.php">Manufacturing</a></li>
-                      <li><a href="edtech-app-development.php">EdTech</a></li>
-                      <li><a href="on-demand-solutions.php">On-Demand Development</a></li>
-                      <li><a href="on-demand-solutions.php">B2B & B2C</a></li>
-                      <li><a href="on-demand-solutions.php">Job Portal</a></li>
-                      <li><a href="on-demand-solutions.php">Marketplace</a></li>
-                      <li><a href="food-restaurant-solutions.php">Food & Restaurant</a></li>
-                      <li><a href="real-estate-housing-solutions.php">Real Estate</a></li>
-                      <li><a href="startup-product-development.php">Startup</a></li>
+                      <li><a href="#">Healthcare</a></li>
+                      <li><a href="#">Banking/FinTech</a></li>
+                      <li><a href="#">Transportation/Logistics</a></li>
+                      <li><a href="#">Travel</a></li>
+                      <li><a href="#">Career</a></li>
+                      <li><a href="#">Manufacturing</a></li>
+                      <li><a href="#">EdTech</a></li>
+                      <li><a href="#">On-Demand Development</a></li>
+                      <li><a href="#">B2B & B2C</a></li>
+                      <li><a href="#">Job Portal</a></li>
+                      <li><a href="#">Marketplace</a></li>
+                      <li><a href="#">Food & Restaurant</a></li>
+                      <li><a href="#">Real Estate</a></li>
+                      <li><a href="#">Startup</a></li>
                       <!-- Ref From
                         https://www.leewayhertz.com/fintech-software-development/?utm_source=menu
                         https://www.octalsoftware.com/banking-finance-solutions
   -->
-                      <!-- <li><a href="education-elearning-solutions.php">E-Learing</a></li> -->
+                      <li><a href="#p">E-Learing</a></li>
                       <!-- Ref from https://www.leewayhertz.com/logistics-software-development/  
                         https://www.octalsoftware.com/transportation-automobile-solutions
                     -->
-                      <!-- <li><a href="media-entertainment-solutions.php">Media & Enterainment</a></li> -->
-                      <!-- <li><a href="consumer-electronics.php">Consumer Electronics</a></li> -->
+                      <li><a href="#">Media & Enterainment</a></li>
+                      <li><a href="#">Consumer Electronics</a></li>
                       <!-- ref from https://www.leewayhertz.com/insurance-software-development/ -->
-                      <!-- <li><a href="insurance-software-development.php">Insurance</a></li> -->
+                      <li><a href="#">Insurance</a></li>
                       <!-- ref from https://www.leewayhertz.com/manufacturing-software-development/ -->
                       <!-- ref from https://www.leewayhertz.com/edtech-app-development/ -->
                       <!-- ref from https://www.leewayhertz.com/startup-product-development/ -->
@@ -439,34 +439,31 @@
 
                   <!-- end of item -->
                   <!-- item -->
-                  <!-- <div class="sub-menu-item">
+                  <div class="sub-menu-item">
                     <h4><a href="#">PORTALS</a></h4>
                     <ul>
-                      <li><a href="b2b-and-b2c-portal.php">B2B & B2C</a></li>
-                      <li><a href="job-portal.php">Job Portal</a></li>
-                      <li><a href="daily-deals-website-development.php">Daily Deals</a></li>
-                      <li><a href="dating-portal.php">Dating</a></li>
-                      <li><a href="social-networking.php">Socail Networking</a></li>
-                      <li><a href="food-portal.php">Food Portal</a></li>
-                      <li><a href="online-marketplace-portal.php">Marketplace</a></li>
-                      <li><a href="price-comparison-portal.php">Price Comparison</a></li>
-                      <li><a href="real-estate.php">Real Estate</a></li>
+                      <li><a href="#">B2B & B2C</a></li>
+                      <li><a href="#">Job Portal</a></li>
+                      <li><a href="#">Daily Deals</a></li>
+                      <li><a href="#">Dating</a></li>
+                      <li><a href="#">Socail Networking</a></li>
+                      <li><a href="#">Food Portal</a></li>
+                      <li><a href="#">Marketplace</a></li>
+                      <li><a href="#">Price Comparison</a></li>
+                      <li><a href="#">Real Estate</a></li>
                     </ul>
-                  </div> -->
+                  </div>
                   <!-- end of item -->
 
                 </div>
               </li>
 
-              <!-- <li>
+              <li>
                 <a href="our-portfolio.php">PORTFOLIO</a>
               </li>
               <li>
-                <a href="contact-us.php">Contact Us</a>
-              </li> -->
-              <!-- <li>
                 <a style="font-size: 14px; background-image: linear-gradient(90deg, #708409 0%, #b7d327 100%); padding: 13px 22px; border-radius: 3px; color: #fff; font-weight: 500; margin-top: 10%;" class="quote-btn" href="#">Get A Quote</a>
-              </li> -->
+              </li>
               <li>
                 <a href="contact-us.php">Contact Us</a>
               </li>
