@@ -635,11 +635,11 @@
                                         <div class="testi-item">
                                             <div class="testi-content">
                                                 <div class="images-wrap">
-                                                    <img src="assets/images/testimonial/main-home/1.jpg" alt="">
+                                                    <img src="assets/images/testimonial/main-home/Raju-Saini.png" alt="">
                                                 </div>
                                                 <div class="testi-information">
-                                                    <div class="testi-name">Koli Akther</div>
-                                                    <span class="testi-title">Graphic Designer</span>
+                                                    <div class="testi-name">Raju Saini</div>
+                                                    <!-- <span class="testi-title">Graphic Designer</span> -->
                                                 </div>
                                             </div>
                                             <div class="item-content-basic">
@@ -649,43 +649,87 @@
                                         <div class="testi-item">
                                             <div class="testi-content">
                                                 <div class="images-wrap">
-                                                    <img src="assets/images/testimonial/main-home/2.jpg" alt="">
+                                                    <img src="assets/images/testimonial/main-home/Shahid-Khan.png" alt="">
                                                 </div>
                                                 <div class="testi-information">
-                                                    <div class="testi-name">Jorina Bibi</div>
-                                                    <span class="testi-title">CEO, Brick Consulting</span>
+                                                    <div class="testi-name">Shahid Khan</div>
+                                                    <!-- <span class="testi-title">CEO, Brick Consulting</span> -->
                                                 </div>
                                             </div>
                                             <div class="item-content-basic">
-                                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/quote3.png" alt="">Good website development services with great project assistance and team support. These guys are amazing in at developing web solutions.</div>
+                                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/quote3.png" alt="">Investment in Personal Projects: Groot Software encouraged interns to pursue personal projects and initiatives aligned with their interests and aspirations. The company provided resources, mentorship, and guidance to support interns in exploring their own ideas and bringing them to fruition. This investment in personal projects empowered interns to showcase their creativity, entrepreneurial spirit, and problem-solving abilities. Groot Software's support for personal projects demonstrated their commitment to nurturing individual talent and fostering a culture of innovation.</div>
                                             </div>
                                         </div>
                                         <div class="testi-item">
                                             <div class="testi-content">
                                                 <div class="images-wrap">
-                                                    <img src="assets/images/testimonial/main-home/3.jpg" alt="">
+                                                    <img src="assets/images/testimonial/main-home/Kritika.png" alt="">
                                                 </div>
                                                 <div class="testi-information">
-                                                    <div class="testi-name">Altafur Hongkon</div>
-                                                    <span class="testi-title"> Arist</span>
+                                                    <div class="testi-name">Kritika</div>
+                                                    <!-- <span class="testi-title">CEO, Brick Consulting</span> -->
                                                 </div>
                                             </div>
                                             <div class="item-content-basic">
-                                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/quote3.png" alt="">Most cooperative web developer and web designer  company in jaipur. They are very professional in their work and have very experienced developers in team.</div>
+                                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/quote3.png" alt="">The developers at Groot Software are knowledgeable, innovative, and truly experts in their field. They worked hard to deliver a top-quality software solution for my business, and I couldn't be happier with the results. If you're looking for a professional web development company in Jaipur, look no further.</div>
+                                            </div>
+                                        </div><div class="testi-item">
+                                            <div class="testi-content">
+                                                <div class="images-wrap">
+                                                    <img src="assets/images/testimonial/main-home/Tatva-RcDu.png" alt="">
+                                                </div>
+                                                <div class="testi-information">
+                                                    <div class="testi-name">Tatva RcDu</div>
+                                                    <!-- <span class="testi-title">CEO, Brick Consulting</span> -->
+                                                </div>
+                                            </div>
+                                            <div class="item-content-basic">
+                                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/quote3.png" alt="">Groot Software is the best company for web or mobile app development in Jaipur. They also offered me digital marketing services that helped me with brand awareness and organic traffic for my business. Getting good leads from Google for my business promotion Quick response, on-time delivery, and friendly nature are what I have got along with my mobile application.</div>
+                                            </div>
+                                        </div><div class="testi-item">
+                                            <div class="testi-content">
+                                                <div class="images-wrap">
+                                                    <img src="assets/images/testimonial/main-home/Somveer-Garwan.png" alt="">
+                                                </div>
+                                                <div class="testi-information">
+                                                    <div class="testi-name">Somveer Garwan</div>
+                                                    <!-- <span class="testi-title">CEO, Brick Consulting</span> -->
+                                                </div>
+                                            </div>
+                                            <div class="item-content-basic">
+                                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/quote3.png" alt="">If you're looking for a web development agency in Jaipur that can deliver
+excellent results, look no further than Groot Software. They went above and
+beyond to ensure that my project was a success, providing expert guidance and
+support throughout the entire process</div>
                                             </div>
                                         </div>
                                         <div class="testi-item">
                                             <div class="testi-content">
                                                 <div class="images-wrap">
-                                                    <img src="assets/images/testimonial/main-home/4.jpg" alt="">
+                                                    <img src="assets/images/testimonial/main-home/Sachin-Dahiya.png" alt="">
                                                 </div>
                                                 <div class="testi-information">
-                                                    <div class="testi-name">Alamgir Hossen</div>
-                                                    <span class="testi-title">Web Developer</span>
+                                                    <div class="testi-name">Sachin Dahiya</div>
+                                                    <!-- <span class="testi-title"> Arist</span> -->
                                                 </div>
                                             </div>
                                             <div class="item-content-basic">
-                                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/quote3.png" alt="">Best app development company i have worked with for my business. The mobile app operates very smoothly functions efficiently. Thanks Groot software for making such a great app for my business.</div>
+                                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/quote3.png" alt="">I had a great experience while doing a web development internship at Groot software with
+real time projects. Great learning experience with the best web development trainer about the technologies.</div>
+                                            </div>
+                                        </div>
+                                        <div class="testi-item">
+                                            <div class="testi-content">
+                                                <div class="images-wrap">
+                                                    <img src="assets/images/testimonial/main-home/Kunal-Sharma.png" alt="">
+                                                </div>
+                                                <div class="testi-information">
+                                                    <div class="testi-name">Kunal Sharma</div>
+                                                    <!-- <span class="testi-title">Web Developer</span> -->
+                                                </div>
+                                            </div>
+                                            <div class="item-content-basic">
+                                                <div class="desc"><img class="quote" src="assets/images/testimonial/main-home/quote3.png" alt="">The software developed by Groot Software is not only efficient and user-friendly, but it has also helped streamline my business processes. The team provided excellent guidance and support throughout the project, resulting in a successful solution. If you're in need of a reliable web development company in Jaipur, choose Groot Software.</div>
                                             </div>
                                         </div>
                                         <div class="testi-item">

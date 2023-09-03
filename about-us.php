@@ -68,11 +68,11 @@
                 <div class="team-item-wrap">
                     <div class="team-wrap">
                         <div class="image-inner">
-                            <a href="single-team.php"><img src="assets/images/team/style1/satnam_sir.jpg" alt=""></a>
+                            <a href="#"><img src="assets/images/team/style1/satnam_sir.jpg" alt=""></a>
                         </div>
                     </div>
                     <div class="team-content text-center">
-                        <h4 class="person-name"><a href="single-team.php">Satnam Singh</a></h4>
+                        <h4 class="person-name"><a href="#">Satnam Singh</a></h4>
                         <span class="designation">CEO & Founder</span>
                         <ul class="team-social">
                             <li><a href="https://www.facebook.com/satnamkhowal"><i class="fa fa-facebook"></i></a></li>
@@ -87,11 +87,11 @@
                 <div class="team-item-wrap">
                     <div class="team-wrap">
                         <div class="image-inner">
-                            <a href="single-team.php"><img src="assets/images/team/style1/jatin-goyal-sir.jpg" alt=""></a>
+                            <a href="#"><img src="assets/images/team/style1/jatin-goyal-sir.jpg" alt=""></a>
                         </div>
                     </div>
                     <div class="team-content text-center">
-                        <h4 class="person-name"><a href="single-team.php">Jatin Goyal</a></h4>
+                        <h4 class="person-name"><a href="#">Jatin Goyal</a></h4>
                         <span class="designation">Software Architect</span>
                         <ul class="team-social">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -105,11 +105,11 @@
                 <div class="team-item-wrap">
                     <div class="team-wrap">
                         <div class="image-inner">
-                            <a href="single-team.php"><img src="assets/images/team/style1/mohit_sir.jpg" alt="Mohit Sir"></a>
+                            <a href="#"><img src="assets/images/team/style1/mohit_sir.jpg" alt="Mohit Sir"></a>
                         </div>
                     </div>
                     <div class="team-content text-center">
-                        <h4 class="person-name"><a href="single-team.php">Masud Rana</a></h4>
+                        <h4 class="person-name"><a href="#">Mohit</a></h4>
                         <span class="designation">Web Developer</span>
                         <ul class="team-social">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -122,12 +122,30 @@
                 <div class="team-item-wrap">
                     <div class="team-wrap">
                         <div class="image-inner">
-                            <a href="single-team.php"><img src="assets/images/team/style1/4.jpg" alt=""></a>
+                            <a href="#"><img src="assets/images/team/style1/sandeep_sir.jpg" alt=""></a>
                         </div>
                     </div>
                     <div class="team-content text-center">
-                        <h4 class="person-name"><a href="single-team.php">Najmul Huda</a></h4>
-                        <span class="designation">Digital Marketer</span>
+                        <h4 class="person-name"><a href="#">Sandeep Swami</a></h4>
+                        <span class="designation">Web Developer</span>
+                        <ul class="team-social">
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                
+                <div class="team-item-wrap">
+                    <div class="team-wrap">
+                        <div class="image-inner">
+                            <a href="#"><img src="assets/images/team/style1/Deepu_sir1.jpg" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="team-content text-center">
+                        <h4 class="person-name"><a href="#">Deependra Swami</a></h4>
+                        <span class="designation">Software Architect</span>
                         <ul class="team-social">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-instagram"></i></a></li>
@@ -139,12 +157,12 @@
                 <div class="team-item-wrap">
                     <div class="team-wrap">
                         <div class="image-inner">
-                            <a href="single-team.php"><img src="assets/images/team/style1/5.jpg" alt=""></a>
+                            <a href="#"><img src="assets/images/team/style1/hr.jpg" alt=""></a>
                         </div>
                     </div>
                     <div class="team-content text-center">
-                        <h4 class="person-name"><a href="single-team.php">Rushali Rumi</a></h4>
-                        <span class="designation">Design Lead</span>
+                        <h4 class="person-name"><a href="#">Seema</a></h4>
+                        <span class="designation">Hr</span>
                         <ul class="team-social">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-instagram"></i></a></li>
@@ -156,11 +174,11 @@
                 <div class="team-item-wrap">
                     <div class="team-wrap">
                         <div class="image-inner">
-                            <a href="single-team.php"><img src="assets/images/team/style1/6.jpg" alt=""></a>
+                            <a href="#"><img src="assets/images/team/style1/pawan_sir.jpg" alt=""></a>
                         </div>
                     </div>
                     <div class="team-content text-center">
-                        <h4 class="person-name"><a href="single-team.php">Abu Sayed</a></h4>
+                        <h4 class="person-name"><a href="#">Pawan Kumar Goyal</a></h4>
                         <span class="designation">App Developer</span>
                         <ul class="team-social">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -173,11 +191,28 @@
                 <div class="team-item-wrap">
                     <div class="team-wrap">
                         <div class="image-inner">
-                            <a href="single-team.php"><img src="assets/images/team/style1/7.jpg" alt=""></a>
+                            <a href="#"><img src="assets/images/team/style1/Daksha.jpg" alt=""></a>
                         </div>
                     </div>
                     <div class="team-content text-center">
-                        <h4 class="person-name"><a href="single-team.php">Sonia Akhter</a></h4>
+                        <h4 class="person-name"><a href="#">Daksha Soni</a></h4>
+                        <span class="designation">Java Developer</span>
+                        <ul class="team-social">
+                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                            <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="team-item-wrap">
+                    <div class="team-wrap">
+                        <div class="image-inner">
+                            <a href="#"><img src="assets/images/team/style1/reetu_mam.jpg" alt=""></a>
+                        </div>
+                    </div>
+                    <div class="team-content text-center">
+                        <h4 class="person-name"><a href="#">Reetu</a></h4>
                         <span class="designation">Graphic Artist</span>
                         <ul class="team-social">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -190,12 +225,12 @@
                 <div class="team-item-wrap">
                     <div class="team-wrap">
                         <div class="image-inner">
-                            <a href="single-team.php"><img src="assets/images/team/style1/8.jpg" alt=""></a>
+                            <a href="#"><img src="assets/images/team/style1/bhawan_mam.jpg" alt=""></a>
                         </div>
                     </div>
                     <div class="team-content text-center">
-                        <h4 class="person-name"><a href="single-team.php">Rayhan Ali</a></h4>
-                        <span class="designation">CEO & Founder</span>
+                        <h4 class="person-name"><a href="#">Bhawana Sharma</a></h4>
+                        <span class="designation">NodeJS Developer</span>
                         <ul class="team-social">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-instagram"></i></a></li>
@@ -207,12 +242,12 @@
                 <div class="team-item-wrap">
                     <div class="team-wrap">
                         <div class="image-inner">
-                            <a href="single-team.php"><img src="assets/images/team/style1/9.jpg" alt=""></a>
+                            <a href="#"><img src="assets/images/team/style1/shivanshi-paliwal.jpeg" alt=""></a>
                         </div>
                     </div>
                     <div class="team-content text-center">
-                        <h4 class="person-name"><a href="single-team.php">Benjir Akther</a></h4>
-                        <span class="designation">Graphic Designer</span>
+                        <h4 class="person-name"><a href="#">Shivanshi Paliwal</a></h4>
+                        <span class="designation">Software Engineer</span>
                         <ul class="team-social">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-instagram"></i></a></li>
@@ -221,15 +256,17 @@
                         </ul>
                     </div>
                 </div>
+               
                 <div class="team-item-wrap">
                     <div class="team-wrap">
                         <div class="image-inner">
-                            <a href="single-team.php"><img src="assets/images/team/style1/1.jpg" alt=""></a>
+                            <a href="#"><img src="assets/images/team/style1/Manvendra_Shekhawat
+.jpg" alt=""></a>
                         </div>
                     </div>
                     <div class="team-content text-center">
-                        <h4 class="person-name"><a href="single-team.php">Makhaia Antitni</a></h4>
-                        <span class="designation">President & CEO</span>
+                        <h4 class="person-name"><a href="#">Manvendra Shekhawat</a></h4>
+                        <span class="designation">Degital Marketing Expert</span>
                         <ul class="team-social">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-instagram"></i></a></li>
@@ -238,49 +275,16 @@
                         </ul>
                     </div>
                 </div>
+                
                 <div class="team-item-wrap">
                     <div class="team-wrap">
                         <div class="image-inner">
-                            <a href="single-team.php"><img src="assets/images/team/style1/2.jpg" alt=""></a>
+                            <a href="#"><img src="assets/images/team/style1/Poonam_Sharma.jpg" alt=""></a>
                         </div>
                     </div>
                     <div class="team-content text-center">
-                        <h4 class="person-name"><a href="single-team.php">Corey Anderson</a></h4>
-                        <span class="designation">CEO & Founder</span>
-                        <ul class="team-social">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="team-item-wrap">
-                    <div class="team-wrap">
-                        <div class="image-inner">
-                            <a href="single-team.php"><img src="assets/images/team/style1/3.jpg" alt=""></a>
-                        </div>
-                    </div>
-                    <div class="team-content text-center">
-                        <h4 class="person-name"><a href="single-team.php">Masud Rana</a></h4>
-                        <span class="designation">Web Developer</span>
-                        <ul class="team-social">
-                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fa fa-instagram"></i></a></li>
-                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="team-item-wrap">
-                    <div class="team-wrap">
-                        <div class="image-inner">
-                            <a href="single-team.php"><img src="assets/images/team/style1/4.jpg" alt=""></a>
-                        </div>
-                    </div>
-                    <div class="team-content text-center">
-                        <h4 class="person-name"><a href="single-team.php">Najmul Huda</a></h4>
-                        <span class="designation">Digital Marketer</span>
+                        <h4 class="person-name"><a href="#">Poonam Sharma</a></h4>
+                        <span class="designation">Social Media Experts</span>
                         <ul class="team-social">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li><a href="#"><i class="fa fa-instagram"></i></a></li>
