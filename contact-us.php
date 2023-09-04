@@ -30,7 +30,7 @@
                                    </div>
                                    <div class="address-text">
                                         <span class="label">Phone:</span>
-                                        <a href="tel:+91-7231968131">+91-7231968131</a>
+                                        <a href="tel:+91-7231968183">+91-7231968183</a>
                                    </div>
                                </div>
                                <div class="address-box mb-25">
