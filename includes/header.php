@@ -176,9 +176,9 @@
                     <ul>
                       <!-- <li><a href="our-strategic-alliance.php">Alliances</a></li> -->
                       <!-- <li><a href="industry-ranking-and-awards.php">Awards</a></li> -->
-                      <li><a href="groot-software-testimonials.php">Testimonials</a></li>
-                      <li><a href="our-portfolio.php">Portfolio</a></li>
-                      <li><a href="career-at-groot-software.php">Career @ Groot</a></li>
+                      <li><a href="#">Testimonials</a></li>
+                      <li><a href="#">Portfolio</a></li>
+                      <li><a href="#">Career @ Groot</a></li>
                     </ul>
                   </div>
                   <!-- end of item -->
@@ -187,7 +187,7 @@
                     <h5>RESOURCES</h5>
                     <ul>
                       <li><a href="blog.php">Blog</a></li>
-                      <li><a href="career-at-groot-software.php">Career @ Groot</a></li>
+                      <li><a href="#">Career @ Groot</a></li>
                       <li><a href="contact-us.php">Contact Us</a></li>
                       <li><a href="get-a-quote.php">Get a Quote</a></li>
                     </ul>
@@ -196,7 +196,7 @@
                   <!-- item -->
                   <div class="sub-menu-item">
                     <ul>
-                      <li><a class="quote-btn-wide" href="career-at-groot-software.php">Join Our Team</a></li>
+                      <li><a class="quote-btn-wide" href="#">Join Our Team</a></li>
                       <li><a class="quote-btn-wide" href="https://www.grootacademy.com/">Learn at Groot</a></li>
                     </ul>
                   </div>
@@ -218,14 +218,14 @@
                     <h5><a href="mobile-app-development.php">Mobile App Development</a></h5>
                     <ul>
                       <!-- <li><a href="iphone-application-development.php">iPhone</a></li> -->
-                      <li><a href="android-application-development.php">Android</a></li>
+                      <li><a href="#">Android</a></li>
                       <!-- <li><a href="ipad-application-development.php">iPad</a></li> -->
-                      <li><a href="react-native-app-development.php">React Native</a></li>
-                      <li><a href="hybrid-mobile-application-development.php">Hybrid</a></li>
-                      <li><a href="ionic-mobile-app-development.php">Ionic</a></li>
-                      <li><a href="flutter-app-development.php">Flutter</a></li>
-                      <li><a href="wearable-devices-app-development.php">Wearables</a></li>
-                      <li><a href="mobile-web-design.php">mobile UX/UI</a></li>
+                      <li><a href="#">React Native</a></li>
+                      <li><a href="#">Hybrid</a></li>
+                      <li><a href="#">Ionic</a></li>
+                      <li><a href="#">Flutter</a></li>
+                      <li><a href="#">Wearables</a></li>
+                      <li><a href="#">mobile UX/UI</a></li>
                     </ul>
                   </div>
                   <!-- end of item -->
@@ -233,28 +233,28 @@
                   <div class="sub-menu-item">
                     <h4><a href="web-development-services.php">Web Development</a></h4>
                     <ul>
-                      <li><a href="php-development.php">PHP</a></li>
+                      <li><a href="#">PHP</a></li>
                       <!-- <li><a href="magento-development-services.php">Magento</a></li> -->
-                      <li><a href="java-script-development-company.php">JavaScript</a></li>
-                      <li><a href="mean-stack-development.php">MEANStack</a></li>
-                      <li><a href="mern-stack-development.php">MERNStack</a></li>
-                      <li><a href="full-stack-development-company.php">Full Stack</a></li>
-                      <li><a href="NodeJS-development-services.php">Node</a></li>
-                      <li><a href="Symfony-development-services.php">Symfony</a></li>
-                      <li><a href="Wordpress-development-services.php">Wordpress</a></li>
+                      <li><a href="#">JavaScript</a></li>
+                      <li><a href="#">MEANStack</a></li>
+                      <li><a href="#">MERNStack</a></li>
+                      <li><a href="#">Full Stack</a></li>
+                      <li><a href="#">Node</a></li>
+                      <li><a href="#">Symfony</a></li>
+                      <li><a href="#">Wordpress</a></li>
                     </ul>
                   </div>
                   <!-- end of item -->
                   <!-- item -->
                   <div class="sub-menu-item">
-                    <h5><a href="software-consulting.php">Software Consulting</a></h5>
+                    <h5><a href="#">Software Consulting</a></h5>
                     <ul>
-                      <li><a href="saas-development-services.php">SaaS</a></li>
-                      <li><a href="crm-development.php">CRM</a></li>
-                      <li><a href="business-intelligence-application-development.php">BI</a></li>
-                      <li><a href="ERP-software.php">ERP</a></li>
-                      <li><a href="cloud-computing-solutions">Cloud</a></li>
-                      <li><a href="Middleware-solution.php">MIddleware</a></li>
+                      <li><a href="#">SaaS</a></li>
+                      <li><a href="#">CRM</a></li>
+                      <li><a href="#">BI</a></li>
+                      <li><a href="#">ERP</a></li>
+                      <li><a href="#">Cloud</a></li>
+                      <li><a href="#">MIddleware</a></li>
                     </ul>
                   </div>
                   <!-- end of item -->
@@ -290,9 +290,9 @@
                 <div class="sub-menu pt-5">
                   <!-- item -->
                   <div class="sub-menu-item">
-                    <h5><a href="seo-company-in-jaipur.php">SEO Services</a></h5>
+                    <h5><a href="#">SEO Services</a></h5>
                     <!-- <ul>
-                      <li><a href="seo-company-in-jaipur.php">Search Engine Optimization</a></li>
+                      <li><a href="#">Search Engine Optimization</a></li>
                       <li><a href="keyword-analysis-strategy-company-jaipur.php">Keyword Analysis</a></li>
                       <li><a href="on-page-optimization-services-jaipur.php">On Page Optimization Services</a></li>
                       <li><a href="off-page-optimization-services-jaipur.php">Off Page Optimization Services</a></li>
@@ -309,9 +309,9 @@
                   <!-- end of item -->
                   <!-- item -->
                   <div class="sub-menu-item">
-                    <h4><a href="social-media-marketing-company-jaipur.php">Social Media Marketing</a></h4>
+                    <h4><a href="#">Social Media Marketing</a></h4>
                     <!-- <ul>
-                      <li><a href="social-media-marketing-company-jaipur.php">Social Media Marketing</a></li>
+                      <li><a href="#">Social Media Marketing</a></li>
                       <li><a href="social-media-management-company-jaipur.php">Social Media Management</a></li>
                       <li><a href="brand-management-services-jaipur.php">Brand Management</a></li>
                       <li><a href="facebook-marketing-company-jaipur.php">Facebook Marketing</a></li>
@@ -459,7 +459,7 @@
               </li>
 
               <li>
-                <a href="our-portfolio.php">PORTFOLIO</a>
+                <a href="#">PORTFOLIO</a>
               </li>
               <li>
                 <a style="font-size: 14px; background-image: linear-gradient(90deg, #708409 0%, #b7d327 100%); padding: 13px 22px; border-radius: 3px; color: #fff; font-weight: 500; margin-top: 10%;" class="quote-btn" href="#">Get A Quote</a>
