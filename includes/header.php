@@ -76,6 +76,7 @@
       display: inline-block;
       text-align: center;
     }
+
   </style>
   <!--[if lt IE 9]>
             <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -144,7 +145,7 @@
             </button>
           </div>
 
-          <div class="navbar-collapse">
+          <div class="x`">
             <ul class="navbar-bar">
 
               <li>
@@ -203,7 +204,163 @@
                   <!-- end of item -->
 
               </li>
+              <li>
+                <a href="#" class="menu-link">
+                Training
 
+                  <span class="drop-icon">
+                    <i class="fa fa-arrow-down"></i>
+                  </span>
+                </a>
+                <div class="sub-menu">
+                  <!-- item -->
+                  <div class="sub-menu-item">
+                    <h5><a href="mobile-app-development.php">Mobile App Development</a></h5>
+                    <ul>
+                      <!-- <li><a href="iphone-application-development.php">iPhone</a></li> -->
+                      <li><a href="#">Android</a></li>
+                      <!-- <li><a href="ipad-application-development.php">iPad</a></li> -->
+                      <li><a href="#">React Native</a></li>
+                      <li><a href="#">Hybrid</a></li>
+                      <li><a href="#">Ionic</a></li>
+                      <li><a href="#">Flutter</a></li>
+                      <li><a href="#">Wearables</a></li>
+                      <li><a href="#">mobile UX/UI</a></li>
+                    </ul>
+                  </div>
+                  <!-- end of item -->
+                  <!-- item -->
+                  <div class="sub-menu-item">
+                    <h4><a href="web-development-services.php">Web Development</a></h4>
+                    <ul>
+                      <li><a href="#">PHP</a></li>
+                      <!-- <li><a href="magento-development-services.php">Magento</a></li> -->
+                      <li><a href="#">JavaScript</a></li>
+                      <li><a href="#">MEANStack</a></li>
+                      <li><a href="#">MERNStack</a></li>
+                      <li><a href="#">Full Stack</a></li>
+                      <li><a href="#">Node</a></li>
+                      <li><a href="#">Symfony</a></li>
+                      <li><a href="#">Wordpress</a></li>
+                    </ul>
+                  </div>
+                  <!-- end of item -->
+                  <!-- item -->
+                  <div class="sub-menu-item">
+                    <h5><a href="#">Software Consulting</a></h5>
+                    <ul>
+                      <li><a href="#">SaaS</a></li>
+                      <li><a href="#">CRM</a></li>
+                      <li><a href="#">BI</a></li>
+                      <li><a href="#">ERP</a></li>
+                      <li><a href="#">Cloud</a></li>
+                      <li><a href="#">MIddleware</a></li>
+                    </ul>
+                  </div>
+                  <!-- end of item -->
+                  <!-- item -->
+                  <div class="sub-menu-item">
+                    <h5>MicroSoft Solutions</h5>
+                    <ul>
+                      <!-- <li><a href="asp-net-development-services.php">Asp.Net</a></li>
+                      <li><a href="sharepoint-development-solutions.php">Sharpoint</a></li>
+                      <li><a href="windows-azure-development-services.php">Azure</a></li>
+                      <li><a href="dynamics-crm-solutions.php">Dynamics CRM</a></li>
+                      <li><a href="microsoft-sitecore-cms-development.php">Sitecore CMS</a></li>
+                      <li><a href="microsoft-sitecore-cms-development.php">Site CRM</a></li> -->
+                      <li><a href="#">Asp.Net</a></li>
+                      <li><a href="#">Sharpoint</a></li>
+                      <li><a href="#">Azure</a></li>
+                      <li><a href="#">Dynamics CRM</a></li>
+                      <li><a href="#">Sitecore CMS</a></li>
+                      <li><a href="#">Site CRM</a></li>
+                    </ul>
+                  </div>
+                  <!-- end of item -->
+
+              </li>
+
+
+
+
+
+              <li>
+                <a href="#" class="menu-link">
+                Internship
+
+                  <span class="drop-icon">
+                    <i class="fa fa-arrow-down"></i>
+                  </span>
+                </a>
+                <div class="sub-menu">
+                  <!-- item -->
+                  <div class="sub-menu-item">
+                    <h5><a href="mobile-app-development.php">Mobile App Development</a></h5>
+                    <ul>
+                      <!-- <li><a href="iphone-application-development.php">iPhone</a></li> -->
+                      <li><a href="#">Android</a></li>
+                      <!-- <li><a href="ipad-application-development.php">iPad</a></li> -->
+                      <li><a href="#">React Native</a></li>
+                      <li><a href="#">Hybrid</a></li>
+                      <li><a href="#">Ionic</a></li>
+                      <li><a href="#">Flutter</a></li>
+                      <li><a href="#">Wearables</a></li>
+                      <li><a href="#">mobile UX/UI</a></li>
+                    </ul>
+                  </div>
+                  <!-- end of item -->
+                  <!-- item -->
+                  <div class="sub-menu-item">
+                    <h4><a href="web-development-services.php">Web Development</a></h4>
+                    <ul>
+                      <li><a href="#">PHP</a></li>
+                      <!-- <li><a href="magento-development-services.php">Magento</a></li> -->
+                      <li><a href="#">JavaScript</a></li>
+                      <li><a href="#">MEANStack</a></li>
+                      <li><a href="#">MERNStack</a></li>
+                      <li><a href="#">Full Stack</a></li>
+                      <li><a href="#">Node</a></li>
+                      <li><a href="#">Symfony</a></li>
+                      <li><a href="#">Wordpress</a></li>
+                    </ul>
+                  </div>
+                  <!-- end of item -->
+                  <!-- item -->
+                  <div class="sub-menu-item">
+                    <h5><a href="#">Software Consulting</a></h5>
+                    <ul>
+                      <li><a href="#">SaaS</a></li>
+                      <li><a href="#">CRM</a></li>
+                      <li><a href="#">BI</a></li>
+                      <li><a href="#">ERP</a></li>
+                      <li><a href="#">Cloud</a></li>
+                      <li><a href="#">MIddleware</a></li>
+                    </ul>
+                  </div>
+                  <!-- end of item -->
+                  <!-- item -->
+                  <div class="sub-menu-item">
+                    <h5>MicroSoft Solutions</h5>
+                    <ul>
+                      <!-- <li><a href="asp-net-development-services.php">Asp.Net</a></li>
+                      <li><a href="sharepoint-development-solutions.php">Sharpoint</a></li>
+                      <li><a href="windows-azure-development-services.php">Azure</a></li>
+                      <li><a href="dynamics-crm-solutions.php">Dynamics CRM</a></li>
+                      <li><a href="microsoft-sitecore-cms-development.php">Sitecore CMS</a></li>
+                      <li><a href="microsoft-sitecore-cms-development.php">Site CRM</a></li> -->
+                      <li><a href="#">Asp.Net</a></li>
+                      <li><a href="#">Sharpoint</a></li>
+                      <li><a href="#">Azure</a></li>
+                      <li><a href="#">Dynamics CRM</a></li>
+                      <li><a href="#">Sitecore CMS</a></li>
+                      <li><a href="#">Site CRM</a></li>
+                    </ul>
+                  </div>
+                  <!-- end of item -->
+
+              </li>
+              
+             
               <li>
                 <a href="#" class="menu-link">
                   Services
@@ -281,12 +438,12 @@
               </li>
 
               <li>
-                <a href="#" class="menu-link">
+                <!-- <a href="#" class="menu-link">
                   SEO/SMO/PPC
                   <span class="drop-icon">
                     <i class="fa fa-arrow-down"></i>
                   </span>
-                </a>
+                </a> -->
                 <div class="sub-menu pt-5">
                   <!-- item -->
                   <div class="sub-menu-item">
@@ -347,7 +504,7 @@
 
               </li>
               <li>
-                <a href="#" class="menu-link">
+                <a  href="#" class="menu-link">
                   Solutions
 
                   <span class="drop-icon">

@@ -12130,3 +12130,16 @@ body .search-modal .close:hover {
 .partner_head{
     margin-bottom: 70px;
 }
+.menu-link{
+    font-size: .9vw !important;
+}
+.navbar-bar{
+    display: flex !important;
+}
+
+.rizwan{
+    display: flex !important;
+}
+.navbar-collapse{
+    width: 83%;
+}
