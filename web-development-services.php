@@ -1,4 +1,10 @@
 <?php include 'includes/header.php'; ?>
+
+<style>
+   
+   
+</style>
+
 <!-- Breadcrumbs Start -->
 <!-- <div class="rs-breadcrumbs img3">
     <div class="breadcrumbs-inner text-center">
@@ -184,40 +190,43 @@
 <div class="rs-services-single pt-50 pb-50 md-pt-40 md-pb-40">
     <div class="container">
         <div class="row">
-            <div class="col-lg-6 md-mb-50">
-                <div class="rs-testimonial style5">
-                    <div class="testi-item">
+            <div class="col-lg-6 md-mb-50  " >
+                <div class="rs-testimonial style5"> 
+                    <div class="testi-item ">
                         <div class="testi-img">
                             <img src="assets/images/testimonial/main-home/quote-white2.png" alt="">
                         </div>
-                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias data.</p>
-                        <div class="testi-content">
+                        <p>The mentors at Groot Software were incredibly knowledgeable and supportive. They guided me through the intricacies of full stack development, offering valuable insights and feedback on my work. The one-on-one sessions and code reviews helped me refine my skills and improve my code quality. Their industry experience and expertise added immense value to the learning process.</p>
+                        <div style="margin-top: 10px;display: flex;flex-direction: column;" class="testi-content">
                             <div class="testi-img">
-                                <img src="assets/images/testimonial/main-home/5.jpg" alt="">
+                                <img src="assets/images/testimonial/main-home/VijayMehra.png" alt="">
                             </div>
                             <div class="author-part">
-                                <div class="name">Brick John</div>
-                                <span class="designation">CEO, Brick Consulting</span>
+                                <div class="name">Vijay Mehra</div>
+                                <!-- <span class="designation">CEO, Brick Consulting</span> -->
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="col-lg-6 md-mb-50">
-                <div class="rs-testimonial style5">
-                    <div class="testi-item">
+                <div class="rs-testimonial style5" >
+                    <div class="testi-item" >
                         <div class="testi-img">
                             <img src="assets/images/testimonial/main-home/quote-white2.png" alt="">
                         </div>
-                        <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias data.</p>
-                        <div class="testi-content">
-                            <div class="testi-img">
-                                <img src="assets/images/testimonial/main-home/5.jpg" alt="">
+                        <p>The software developed by Groot Software is not only efficient and user-friendly, but it has also helped streamline my business processes. The team provided excellent guidance and support throughout the project, resulting in a successful solution. If you're in need of a reliable web development company in Jaipur, choose Groot Software.</p>
+                        <div style="margin-top: 45px; display: flex;flex-direction: column;" class="testi-content">
+
+                            <div  class="testi-img">
+                                <img src="assets/images/testimonial/main-home/KunalSharma.png" alt="">
                             </div>
+
                             <div class="author-part">
-                                <div class="name">Brick John</div>
-                                <span class="designation">CEO, Brick Consulting</span>
+                                <div class="name">Kunal Sharma</div>
+                                <!-- <span class="designation">CEO, Brick Consulting</span> -->
                             </div>
+
                         </div>
                     </div>
                 </div>
@@ -304,5 +313,9 @@
 
 </div>
 <!-- Main content End -->
+
+<!-- Partner Start -->
+<?php include("./our-partners-compnies.php"); ?>
+<!-- Partner End -->
 
 <?php include 'includes/footer.php'; ?>

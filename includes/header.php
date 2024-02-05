@@ -76,7 +76,6 @@
       display: inline-block;
       text-align: center;
     }
-
   </style>
   <!--[if lt IE 9]>
             <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -206,7 +205,7 @@
               </li>
               <li>
                 <a href="#" class="menu-link">
-                Training
+                  Training
 
                   <span class="drop-icon">
                     <i class="fa fa-arrow-down"></i>
@@ -286,7 +285,7 @@
 
               <li>
                 <a href="#" class="menu-link">
-                Internship
+                  Internship
 
                   <span class="drop-icon">
                     <i class="fa fa-arrow-down"></i>
@@ -359,8 +358,8 @@
                   <!-- end of item -->
 
               </li>
-              
-             
+
+
               <li>
                 <a href="#" class="menu-link">
                   Services
@@ -371,6 +370,7 @@
                 </a>
                 <div class="sub-menu">
                   <!-- item -->
+                 
                   <div class="sub-menu-item">
                     <h5><a href="mobile-app-development.php">Mobile App Development</a></h5>
                     <ul>
@@ -504,7 +504,7 @@
 
               </li>
               <li>
-                <a  href="#" class="menu-link">
+                <a href="#" class="menu-link">
                   Solutions
 
                   <span class="drop-icon">

@@ -24,9 +24,9 @@
                            <ul class="site-map">
                                <li><a href="software-development.php">Software Development</a></li>
                                <li><a href="web-development-services.php">Web Development</a></li>
-                               <li><a href="analytic-solutions.php">Analytic Solutions</a></li>
-                               <li><a href="cloud-and-devOps-services.php">Cloud and DevOps</a></li>
-                               <li><a href="product-design-services.php">Product Design</a></li>
+                               <li><a href="#">Mobile Developement Solutions</a></li>
+                               <li><a href="#">Java Development Solutions</a></li>
+                               <!-- <li><a href="product-design-services.php">Product Design</a></li> -->
                            </ul>
                        </div>
                        <div class="col-lg-3 col-md-12 col-sm-12 md-mb-30">
