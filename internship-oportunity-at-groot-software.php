@@ -70,7 +70,7 @@
                         Node.js while working on real-world projects. Launch your tech career in Jaipur with us and
                         unlock limitless opportunities. Apply now to seize your chance!.</p>
                     <div class="services-btn2">
-                        <a href="web-development.php">Know More</a>
+                        <a href="Inernship-in-full-stack-MERN.php">Know More</a>
                     </div>
                 </div>
                 <div class="services-img mb-4">
