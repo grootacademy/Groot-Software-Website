@@ -128,6 +128,8 @@
                     <li><a href="https://www.instagram.com/grootsoftware/" target="_blank"><i class="fa fa-instagram"></i></a></li>
                     <li><a href="https://www.linkedin.com/in/grootsoftware/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
                     <li><a href="https://stackoverflow.com/c/grootsoftware/" target="_blank"><i class="fa fa-stack-overflow"></i></a></li>
+    
+                    <li><a href="https://wa.me/919610967825" target="_blank"><i class="fa fa-whatsapp"></i></a></li>
                   </ul>
                 </div>
               </div>
@@ -145,7 +147,7 @@
           </div>
 
           <div class="x`">
-            <ul class="navbar-bar">
+            <ul  class="navbar-bar" >
 
               <li>
                 <a href="#" class="menu-link">
@@ -201,7 +203,7 @@
                     </ul>
                   </div>
                   <!-- end of item -->
-
+                </div>
               </li>
               <li>
                 <a href="#" class="menu-link">
@@ -276,7 +278,7 @@
                     </ul>
                   </div>
                   <!-- end of item -->
-
+                </div>
               </li>
 
 
@@ -356,7 +358,7 @@
                     </ul>
                   </div>
                   <!-- end of item -->
-
+                </div>
               </li>
 
 
@@ -370,7 +372,7 @@
                 </a>
                 <div class="sub-menu">
                   <!-- item -->
-                 
+
                   <div class="sub-menu-item">
                     <h5><a href="mobile-app-development.php">Mobile App Development</a></h5>
                     <ul>
@@ -434,7 +436,7 @@
                     </ul>
                   </div>
                   <!-- end of item -->
-
+                </div>
               </li>
 
               <li>
@@ -501,7 +503,7 @@
                     </ul>
                   </div> -->
                   <!-- end of item -->
-
+                </div>
               </li>
               <li>
                 <a href="#" class="menu-link">
@@ -558,7 +560,7 @@
                     <ul>
                       <!-- Ref From https://www.leewayhertz.com/healthcare-software-development/
                           https://www.octalsoftware.com/healthcare-solutions
-  -->
+                      -->
                       <li><a href="#">Healthcare</a></li>
                       <li><a href="#">Banking/FinTech</a></li>
                       <li><a href="#">Transportation/Logistics</a></li>
@@ -576,11 +578,11 @@
                       <!-- Ref From
                         https://www.leewayhertz.com/fintech-software-development/?utm_source=menu
                         https://www.octalsoftware.com/banking-finance-solutions
-  -->
+                       -->
                       <li><a href="#p">E-Learing</a></li>
                       <!-- Ref from https://www.leewayhertz.com/logistics-software-development/  
                         https://www.octalsoftware.com/transportation-automobile-solutions
-                    -->
+                      -->
                       <li><a href="#">Media & Enterainment</a></li>
                       <li><a href="#">Consumer Electronics</a></li>
                       <!-- ref from https://www.leewayhertz.com/insurance-software-development/ -->

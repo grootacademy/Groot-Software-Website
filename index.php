@@ -36,8 +36,6 @@
 
         }
     }
-
- 
 </style>
 
 <!-- Banner Section Start -->
@@ -65,6 +63,22 @@
     </div>
 </div>
 <!-- Banner Section End -->
+
+<!-- whatsapp -->
+
+<div style="display: block;position: fixed; bottom: 40px; left: 20px; height: 70px;width: 70px; border-radius: 50%; background-color: #4DD376;display: flex;justify-content: center;z-index:2000">
+   <ul>
+   <li><a style="color: white; font-size: 50px;" href="https://wa.me/919610967825" target="_blank"><i class="fa fa-whatsapp"></i></a></li>
+   </ul>
+    <!-- <i href="https://wa.me/919610967825" class="fa fa-whatsapp wa-my-float"></i> -->
+</div>
+
+<!-- <a href="https://wa.me/919001997178" style="position: sticky;top: 400px; left: 50px;" target="_blank">
+
+</a> -->
+
+
+<!-- whatsapp end  -->
 
 <!-- Services Section Start -->
 <div class="rs-services style4 gray-color pt-110 pb-120 md-pt-75 md-pb-80">
