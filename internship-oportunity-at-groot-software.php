@@ -1,4 +1,47 @@
-<?php include 'includes/header.php'; ?>
+<?php include('./includes/header.php');  ?>
+<!--  META DATA -->
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development), Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science Certification & Training Course - Groot Academy</title>
+
+<meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture">
+
+<meta name="description" content="<p>Groot Academy is one of the best institute or company for Full stack web development with NodeJS (MERN stack Development) in Jaipur, Rajasthan,.100% Job Placement Training programme.</p>
+">
+<link rel="canonical" href="https://grootacademy.com/" />
+<meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Groot Academy">
+<meta name="copyright" content="Groot Academy Pvt Ltd" />
+
+
+<meta name="author" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
+
+<meta property="og:site_name" content="Groot Academy">
+<meta property="og:url" content="https://grootacademy.com">
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Full stack development with NodeJS (MERN Stack development :- MongoDB ExpressJS ReactJS NodeJS)">
+<meta property="og:description" content="<p>Groot Academy is one of the best institute for full stack developement with nodeJS in Jaipur, Rajasthan,.100% Job Placement.</p>
+">
+<meta property="og:image" content="https://grootacademy.com/assets/img/groot.png">
+
+
+<meta property="og:image:width" content="90">
+<meta property="og:image:height" content="90">
+
+
+<meta name="language" content="en-us" />
+<meta name="distribution" content="Global">
+<meta name="Publisher" content="https://grootacademy.com">
+<meta name="Rating" content="General">
+<meta name=geography content="India ">
+<meta name="geo.region" content="JP-RJ" />
+<meta name="geo.placename" content="Jaipur" />
+<meta name="Search Engine" CONTENT="https://www.google.co.in/">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!--  META DATA -->
+<?php include('./includes/navbar');  ?>
 
 <style>
     .rs-services-single .contact-widget .form-control {
@@ -44,10 +87,10 @@
         <h5 class="page-title">Web Development </h5>
         <ul>
             <li title="Braintech - IT Solutions and Technology Startup HTML Template">
-                <a class="active" href="index.php">Home</a>
+                <a class="active" href="index">Home</a>
             </li>
             <li title="Go To Services">
-                <a class="active" href="index.php">Services</a>
+                <a class="active" href="index">Services</a>
             </li>
             <li>Web Development</li>
         </ul>
@@ -70,7 +113,7 @@
                         Node.js while working on real-world projects. Launch your tech career in Jaipur with us and
                         unlock limitless opportunities. Apply now to seize your chance!.</p>
                     <div class="services-btn2">
-                        <a href="Inernship-in-full-stack-MERN.php">Know More</a>
+                        <a href="Inernship-in-full-stack-MERN">Know More</a>
                     </div>
                 </div>
                 <div class="services-img mb-4">
@@ -83,7 +126,7 @@
                         career in Jaipur. Don't miss this opportunity; apply now to carve your niche in the vibrant
                         Jaipur tech scene!</p>
                     <div class="services-btn2">
-                        <a href="web-development.php">Know More</a>
+                        <a href="web-development">Know More</a>
                     </div>
                 </div>
                 <div class="services-img mb-4">
@@ -96,7 +139,7 @@
                         jumpstart your journey in frontend development. Apply now and unlock your potential in Jaipur's
                         thriving tech industry!</p>
                     <div class="services-btn2">
-                        <a href="web-development.php">Know More</a>
+                        <a href="web-development">Know More</a>
                     </div>
                 </div>
                 <div class="services-img mb-4">
@@ -109,7 +152,7 @@
                         embark on your journey in frontend development. Apply now to unlock opportunities in Jaipur's
                         dynamic tech sector!</p>
                     <div class="services-btn2">
-                        <a href="web-development.php">Know More</a>
+                        <a href="web-development">Know More</a>
                     </div>
                 </div>
                 <div class="services-img mb-4">
@@ -122,7 +165,7 @@
                         backend development. Apply now to unlock doors to success in Jaipur's thriving tech industry!
                     </p>
                     <div class="services-btn2">
-                        <a href="web-development.php">Know More</a>
+                        <a href="web-development">Know More</a>
                     </div>
                 </div>
                 <div class="services-img mb-4">
@@ -135,7 +178,7 @@
                         kickstart your journey in Full Stack Development with Java. Apply now and thrive in Jaipur's
                         dynamic tech community!</p>
                     <div class="services-btn2">
-                        <a href="web-development.php">Know More</a>
+                        <a href="web-development">Know More</a>
                     </div>
                 </div>
                 <h2 class="mt-34">Web Development Service We Excel In</h2>
@@ -184,7 +227,7 @@
                         <h4 class="title testi-title">Apply Now</h4>
                     </div>
                     <div id="form-messages"></div>
-                    <form method="post" action="./process.php">
+                    <form method="post" action="./process">
                         <fieldset>
                             <div class="row">
                                 <div class="col-md-6 mb-20">
@@ -230,11 +273,11 @@
                     </form>
                 </div>
                 <ul class="services-list">
-                    <li><a href="software-development.php">Software Development</a></li>
+                    <li><a href="software-development">Software Development</a></li>
                     <li><a class="active" href="#">Web Development</a></li>
-                    <li><a href="case-studies-single.php">Analytic Solutions</a></li>
-                    <li><a href="cloud-and-devops.php">Cloud and DevOps</a></li>
-                    <li><a href="product-design.php">Project Design</a></li>
+                    <li><a href="case-studies-single">Analytic Solutions</a></li>
+                    <li><a href="cloud-and-devops">Cloud and DevOps</a></li>
+                    <li><a href="product-design">Project Design</a></li>
                     <li><a href="#">Data Center</a></li>
                 </ul>
 
@@ -256,7 +299,7 @@
                         nulla sollicitudin.
                     </p>
                     <div class="pdf-btn">
-                        <a class="readon learn-more pdf" href="contact.php">Download Now<i
+                        <a class="readon learn-more pdf" href="contact">Download Now<i
                                 class="fa fa-file-pdf-o"></i></a>
                     </div>
                 </div>
@@ -497,7 +540,7 @@
                 </div>
                 <div class="col-lg-3 text-right col-md-12">
                     <div class="button-wrap">
-                        <a class="readon learn-more" href="contact-us.php">Get In Touch</a>
+                        <a class="readon learn-more" href="contact-us">Get In Touch</a>
                     </div>
                 </div>
             </div>
@@ -510,7 +553,7 @@
 <!-- Main content End -->
 
 <!-- Partner Start -->
-<?php include("./our-partners-compnies.php"); ?>
+<?php include("./our-partners-compnies"); ?>
 <!-- Partner End -->
 
 <?php include 'includes/footer.php'; ?>

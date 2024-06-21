@@ -277,10 +277,10 @@ ul li {
         <h5 class="page-title">Web Development </h5>
         <ul>
             <li title="Braintech - IT Solutions and Technology Startup HTML Template">
-                <a class="active" href="index.php">Home</a>
+                <a class="active" href="index">Home</a>
             </li>
             <li title="Go To Services">
-                <a class="active" href="index.php">Services</a>
+                <a class="active" href="index">Services</a>
             </li>
             <li>Web Development</li>
         </ul>
@@ -385,7 +385,7 @@ ul li {
                         <h4 class="title testi-title">Apply Now</h4>
                     </div>
                     <div id="form-messages"></div>
-                    <form method="post" action="./process.php">
+                    <form method="post" action="./process">
                         <fieldset>
                             <div class="row">
                                 <div class="col-md-6 mb-20">
@@ -431,11 +431,11 @@ ul li {
                     </form>
                 </div>
                 <ul class="services-list">
-                    <li><a href="software-development.php">Software Development</a></li>
+                    <li><a href="software-development">Software Development</a></li>
                     <li><a class="active" href="#">Web Development</a></li>
-                    <li><a href="case-studies-single.php">Analytic Solutions</a></li>
-                    <li><a href="cloud-and-devops.php">Cloud and DevOps</a></li>
-                    <li><a href="product-design.php">Project Design</a></li>
+                    <li><a href="case-studies-single">Analytic Solutions</a></li>
+                    <li><a href="cloud-and-devops">Cloud and DevOps</a></li>
+                    <li><a href="product-design">Project Design</a></li>
                     <li><a href="#">Data Center</a></li>
                 </ul>
 
@@ -457,7 +457,7 @@ ul li {
                         nulla sollicitudin.
                     </p>
                     <div class="pdf-btn">
-                        <a class="readon learn-more pdf" href="contact.php">Download Now<i
+                        <a class="readon learn-more pdf" href="contact">Download Now<i
                                 class="fa fa-file-pdf-o"></i></a>
                     </div>
                 </div>
@@ -482,7 +482,7 @@ ul li {
                 </div>
                 <div class="col-lg-3 text-right col-md-12">
                     <div class="button-wrap">
-                        <a class="readon learn-more" href="contact-us.php">Get In Touch</a>
+                        <a class="readon learn-more" href="contact-us">Get In Touch</a>
                     </div>
                 </div>
             </div>
@@ -496,7 +496,7 @@ ul li {
 <!-- Main content End -->
 
 <!-- Partner Start -->
-<?php include("./our-partners-compnies.php"); ?>
+<?php include("./our-partners-compnies"); ?>
 <!-- Partner End -->
 
 <?php include 'includes/footer.php'; ?>

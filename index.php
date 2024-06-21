@@ -1,4 +1,47 @@
-<?php include 'includes/header.php'; ?>
+<?php include('./includes/header.php');  ?>
+<!--  META DATA -->
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>Full stack Web development with NodeJS(MERN : Mongo DB, ExpressJS, ReactJS, NodeJS stack Web development), Java, ReactJS , AngularJS, VueJs, Web desinging, data analyst, Python, C and C++ programming, Data Science Certification & Training Course - Groot Academy</title>
+
+<meta name="keywords" content="Best Full stack Web development Training institute in jaipur, Best IT Training institute in Jaipur, Best Institute for Web desinging and Web development, C, C++, Java, Pyhton, GO Lang programming, Institute for Graphics desinging,Best UI/UX Desingner Course in Jaipur, Best Institute for Learn Web Technologies HTML, CSS, JavaScript, Advance Java Script, Ecma Script 6, ReactJS, NodeJS, ExpressJS, AngularJS, Java, Advance Java (Servlet & JSP), Structs, Spring, Spring Boot, Hibernate, Best Institute for learning MicroServics Architecture">
+
+<meta name="description" content="<p>Groot Academy is one of the best institute or company for Full stack web development with NodeJS (MERN stack Development) in Jaipur, Rajasthan,.100% Job Placement Training programme.</p>
+">
+<link rel="canonical" href="https://grootacademy.com/" />
+<meta name="classification" content="Full stack Web development with NodeJS(MERN stack Web development), Full stack Development with Java, Full stack Development with python, Full stack Web Development with PHP, Java, Python, Data Analitics, Data Science, Machine Learning, Artificial Intelligence Certification &amp; Training Course - Groot Academy">
+<meta name="copyright" content="Groot Academy Pvt Ltd" />
+
+
+<meta name="author" content="Groot Academy Pvt Ltd, Software Development, Web Desinging and Development Training Center" />
+
+<meta property="og:site_name" content="Groot Academy">
+<meta property="og:url" content="https://grootacademy.com">
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Full stack development with NodeJS (MERN Stack development :- MongoDB ExpressJS ReactJS NodeJS)">
+<meta property="og:description" content="<p>Groot Academy is one of the best institute for full stack developement with nodeJS in Jaipur, Rajasthan,.100% Job Placement.</p>
+">
+<meta property="og:image" content="https://grootacademy.com/assets/img/groot.png">
+
+
+<meta property="og:image:width" content="90">
+<meta property="og:image:height" content="90">
+
+
+<meta name="language" content="en-us" />
+<meta name="distribution" content="Global">
+<meta name="Publisher" content="https://grootacademy.com">
+<meta name="Rating" content="General">
+<meta name=geography content="India ">
+<meta name="geo.region" content="JP-RJ" />
+<meta name="geo.placename" content="Jaipur" />
+<meta name="Search Engine" CONTENT="https://www.google.co.in/">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<!--  META DATA -->
+<?php include('./includes/navbar');  ?>
 <style>
     .main-img {
         position: relative;
@@ -50,7 +93,7 @@
                 Groot Software is a team of professional programmers and developers who hold expertise in all type of digital development including software, app and web development.
             </p>
             <!-- <ul class="banner-btn">
-                            <li><a class="readon discover" href="about.php">Discover More</a></li>
+                            <li><a class="readon discover" href="about">Discover More</a></li>
                             <li>
                                 <div class="rs-videos">
                                     <div class="animate-border white-color">
@@ -87,12 +130,12 @@
                         <img src="assets/images/services/style4/1.png" alt="">
                     </div>
                     <div class="services-content">
-                        <h2 class="title"><a href="web-development.php">Software Developement</a></h2>
+                        <h2 class="title"><a href="web-development">Software Developement</a></h2>
                         <p class="desc">
                             Our professional developers are experienced in developing different types of software programs including offline and online (SAAS) software applications.
                         </p>
                         <div class="services-btn2">
-                            <a href="web-development.php">Know More</a>
+                            <a href="web-development">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -103,12 +146,12 @@
                         <img src="assets/images/services/style4/2.png" alt="">
                     </div>
                     <div class="services-content">
-                        <h2 class="title"><a href="web-development.php">Web Development</a></h2>
+                        <h2 class="title"><a href="web-development">Web Development</a></h2>
                         <p class="desc">
                             If you are planning to start an online business or website, we have professionals who can fulfill your requirements efficiently.
                         </p>
                         <div class="services-btn2">
-                            <a href="web-development.php">Know More</a>
+                            <a href="web-development">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -119,12 +162,12 @@
                         <img src="assets/images/services/style4/3.png" alt="">
                     </div>
                     <div class="services-content">
-                        <h2 class="title"><a href="web-development.php">Native App Developement</a></h2>
+                        <h2 class="title"><a href="web-development">Native App Developement</a></h2>
                         <p class="desc">
                             In case you need a mobile app to be developed, our experts can develop for both android or iOS systems.
                         </p>
                         <div class="services-btn2">
-                            <a href="web-development.php">Know More</a>
+                            <a href="web-development">Know More</a>
                         </div>
                     </div>
                 </div>
@@ -148,7 +191,7 @@
                         We only started a few years ago, but the expertise, dedication, and consistency of our team helped us earn a reputation among acclaimed software development companies of India and the US.
                     </div>
                     <div class="btn-part mt-40">
-                        <a class="readon discover more" href="about-us.php">About Us</a>
+                        <a class="readon discover more" href="about-us">About Us</a>
                     </div>
                 </div>
             </div>
@@ -216,12 +259,12 @@
                         <img src="assets/images/services/style5/1.png" alt="">
                     </div>
                     <div class="services-content">
-                        <h2 class="title"><a href="web-development.php">PHP</a></h2>
+                        <h2 class="title"><a href="web-development">PHP</a></h2>
                         <p class="desc">
                             We have programmers who can deliver your PHP programming project in no time.
                         </p>
                         <div class="services-btn2">
-                            <a href="web-development.php">Read More</a>
+                            <a href="web-development">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -232,12 +275,12 @@
                         <img src="assets/images/services/style5/2.png" alt="">
                     </div>
                     <div class="services-content">
-                        <h2 class="title"><a href="web-development.php">Java</a></h2>
+                        <h2 class="title"><a href="web-development">Java</a></h2>
                         <p class="desc">
                             We have programmers who can deliver your Java programming project in no time.
                         </p>
                         <div class="services-btn2">
-                            <a href="web-development.php">Read More</a>
+                            <a href="web-development">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -248,12 +291,12 @@
                         <img src="assets/images/services/style5/3.png" alt="">
                     </div>
                     <div class="services-content">
-                        <h2 class="title"><a href="web-development.php">React JS</a></h2>
+                        <h2 class="title"><a href="web-development">React JS</a></h2>
                         <p class="desc">
                             We have programmers who can deliver your React JS programming project in no time.
                         </p>
                         <div class="services-btn2">
-                            <a href="web-development.php">Read More</a>
+                            <a href="web-development">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -264,12 +307,12 @@
                         <img src="assets/images/services/style5/4.png" alt="">
                     </div>
                     <div class="services-content">
-                        <h2 class="title"><a href="web-development.php">Angular </a></h2>
+                        <h2 class="title"><a href="web-development">Angular </a></h2>
                         <p class="desc">
                             We have programmers who can deliver your Angular programming project in no time.
                         </p>
                         <div class="services-btn2">
-                            <a href="web-development.php">Read More</a>
+                            <a href="web-development">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -280,12 +323,12 @@
                         <img src="assets/images/services/style5/5.png" alt="">
                     </div>
                     <div class="services-content">
-                        <h2 class="title"><a href="web-development.php">HTML/CSS</a></h2>
+                        <h2 class="title"><a href="web-development">HTML/CSS</a></h2>
                         <p class="desc">
                             We have programmers who can deliver your HTML/CSS programming project in no time.
                         </p>
                         <div class="services-btn2">
-                            <a href="web-development.php">Read More</a>
+                            <a href="web-development">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -296,12 +339,12 @@
                         <img src="assets/images/services/style5/6.png" alt="">
                     </div>
                     <div class="services-content">
-                        <h2 class="title"><a href="web-development.php">WordPress</a></h2>
+                        <h2 class="title"><a href="web-development">WordPress</a></h2>
                         <p class="desc">
                             We have programmers who can deliver your WordPress programming project in no time.
                         </p>
                         <div class="services-btn2">
-                            <a href="web-development.php">Read More</a>
+                            <a href="web-development">Read More</a>
                         </div>
                     </div>
                 </div>
@@ -320,7 +363,7 @@
                 Got a web development project? Let's get you connected with our experts and transform your vision into reality.
             </h2>
             <div class="call-btn mt-30">
-                <a class="readon discover started" href="contact.php">Get in Touch</a>
+                <a class="readon discover started" href="contact">Get in Touch</a>
             </div>
         </div>
     </div>
@@ -342,7 +385,7 @@
                             When you trust us with your digital venture, it becomes our responsibility to fulfill your requirements and provide you the best output possible. Here's an overview of how it works.
                         </div>
                         <div class="btn-part mt-40">
-                            <a class="readon discover started" href="contact.php">Learn More</a>
+                            <a class="readon discover started" href="contact">Learn More</a>
                         </div>
                     </div>
                 </div>
@@ -431,67 +474,67 @@
                                 <div class="rs-carousel owl-carousel" data-loop="true" data-items="4" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="3" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="4" data-md-device-nav="true" data-md-device-dots="false">
                                     <div class="project-item">
                                         <div class="project-img">
-                                            <a href="case-studies-style1.php"><img src="assets/images/project/main-home/1.jpg" alt="images"></a>
+                                            <a href="case-studies-style1"><img src="assets/images/project/main-home/1.jpg" alt="images"></a>
                                         </div>
                                         <div class="project-content">
                                             <div class="portfolio-inner">
-                                                <h3 class="title"><a href="case-studies-single.php">Project Design</a></h3>
-                                                <span class="category"><a href="case-studies-style1.php">IT Technology</a></span>
+                                                <h3 class="title"><a href="case-studies-single">Project Design</a></h3>
+                                                <span class="category"><a href="case-studies-style1">IT Technology</a></span>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="project-item">
                                         <div class="project-img">
-                                            <a href="case-studies-style1.php"><img src="assets/images/project/main-home/2.jpg" alt="images"></a>
+                                            <a href="case-studies-style1"><img src="assets/images/project/main-home/2.jpg" alt="images"></a>
                                         </div>
                                         <div class="project-content">
                                             <div class="portfolio-inner">
-                                                <h3 class="title"><a href="case-studies-single.php">Growth Strategies</a></h3>
-                                                <span class="category"><a href="case-studies-style1.php">IT Technology</a></span>
+                                                <h3 class="title"><a href="case-studies-single">Growth Strategies</a></h3>
+                                                <span class="category"><a href="case-studies-style1">IT Technology</a></span>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="project-item">
                                         <div class="project-img">
-                                            <a href="case-studies-style1.php"><img src="assets/images/project/main-home/3.jpg" alt="images"></a>
+                                            <a href="case-studies-style1"><img src="assets/images/project/main-home/3.jpg" alt="images"></a>
                                         </div>
                                         <div class="project-content">
                                             <div class="portfolio-inner">
-                                                <h3 class="title"><a href="case-studies-single.php">Platform Integration</a></h3>
-                                                <span class="category"><a href="case-studies-style1.php">IT Technology</a></span>
+                                                <h3 class="title"><a href="case-studies-single">Platform Integration</a></h3>
+                                                <span class="category"><a href="case-studies-style1">IT Technology</a></span>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="project-item">
                                         <div class="project-img">
-                                            <a href="case-studies-style1.php"><img src="assets/images/project/main-home/4.jpg" alt="images"></a>
+                                            <a href="case-studies-style1"><img src="assets/images/project/main-home/4.jpg" alt="images"></a>
                                         </div>
                                         <div class="project-content">
                                             <div class="portfolio-inner">
-                                                <h3 class="title"><a href="case-studies-single.php">Innovative Interfaces</a></h3>
-                                                <span class="category"><a href="case-studies-style1.php">IT Technology</a></span>
+                                                <h3 class="title"><a href="case-studies-single">Innovative Interfaces</a></h3>
+                                                <span class="category"><a href="case-studies-style1">IT Technology</a></span>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="project-item">
                                         <div class="project-img">
-                                            <a href="case-studies-style1.php"><img src="assets/images/project/main-home/5.jpg" alt="images"></a>
+                                            <a href="case-studies-style1"><img src="assets/images/project/main-home/5.jpg" alt="images"></a>
                                         </div>
                                         <div class="project-content">
                                             <div class="portfolio-inner">
-                                                <h3 class="title"><a href="case-studies-single.php">Product Engineering</a></h3>
-                                                <span class="category"><a href="case-studies-style1.php">IT Technology</a></span>
+                                                <h3 class="title"><a href="case-studies-single">Product Engineering</a></h3>
+                                                <span class="category"><a href="case-studies-style1">IT Technology</a></span>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="project-item">
                                         <div class="project-img">
-                                            <a href="case-studies-style1.php"><img src="assets/images/project/main-home/6.jpg" alt="images"></a>
+                                            <a href="case-studies-style1"><img src="assets/images/project/main-home/6.jpg" alt="images"></a>
                                         </div>
                                         <div class="project-content">
                                             <div class="portfolio-inner">
-                                                <h3 class="title"><a href="case-studies-single.php">Analytic Solutions</a></h3>
-                                                <span class="category"><a href="case-studies-style1.php">IT Technology</a></span>
+                                                <h3 class="title"><a href="case-studies-single">Analytic Solutions</a></h3>
+                                                <span class="category"><a href="case-studies-style1">IT Technology</a></span>
                                             </div>
                                         </div>
                                     </div>
@@ -527,7 +570,7 @@
                                 </div>
                             </div>
                             <div class="team-content text-center">
-                                <h3 class="person-name"><a href="single-team.php">Maria Akther</a></h3>
+                                <h3 class="person-name"><a href="single-team">Maria Akther</a></h3>
                                 <span class="designation">Digital Marketer</span>
                             </div>      
                         </div>
@@ -544,7 +587,7 @@
                                 </div>
                             </div>
                             <div class="team-content text-center">
-                                <h3 class="person-name"><a href="single-team.php">Istiak Ahmed</a></h3>
+                                <h3 class="person-name"><a href="single-team">Istiak Ahmed</a></h3>
                                 <span class="designation">Design Lead</span>
                             </div>      
                         </div>
@@ -561,7 +604,7 @@
                                 </div>
                             </div>
                             <div class="team-content text-center">
-                                <h3 class="person-name"><a href="single-team.php">Asif Ahmed</a></h3>
+                                <h3 class="person-name"><a href="single-team">Asif Ahmed</a></h3>
                                 <span class="designation">App Developer</span>
                             </div>      
                         </div>
@@ -578,7 +621,7 @@
                                 </div>
                             </div>
                             <div class="team-content text-center">
-                                <h3 class="person-name"><a href="single-team.php">Ibrahim Riaz</a></h3>
+                                <h3 class="person-name"><a href="single-team">Ibrahim Riaz</a></h3>
                                 <span class="designation">Digital Marketer</span>
                             </div>      
                         </div>
@@ -595,7 +638,7 @@
                                 </div>
                             </div>
                             <div class="team-content text-center">
-                                <h3 class="person-name"><a href="single-team.php">Koli Akther</a></h3>
+                                <h3 class="person-name"><a href="single-team">Koli Akther</a></h3>
                                 <span class="designation">Web Developer</span>
                             </div>      
                         </div>
@@ -612,7 +655,7 @@
                                 </div>
                             </div>
                             <div class="team-content text-center">
-                                <h3 class="person-name"><a href="single-team.php">Abu Sufian</a></h3>
+                                <h3 class="person-name"><a href="single-team">Abu Sufian</a></h3>
                                 <span class="designation">Graphic Artist</span>
                             </div>      
                         </div>
@@ -629,7 +672,7 @@
                                 </div>
                             </div>
                             <div class="team-content text-center">
-                                <h3 class="person-name"><a href="single-team.php">Rushali Rumi</a></h3>
+                                <h3 class="person-name"><a href="single-team">Rushali Rumi</a></h3>
                                 <span class="designation">CEO & Founder</span>
                             </div>      
                         </div>
@@ -646,7 +689,7 @@
                                 </div>
                             </div>
                             <div class="team-content text-center">
-                                <h3 class="person-name"><a href="single-team.php">Mahabub Alam</a></h3>
+                                <h3 class="person-name"><a href="single-team">Mahabub Alam</a></h3>
                                 <span class="designation">CEO & Founder</span>
                             </div>      
                         </div>
@@ -837,7 +880,7 @@
                                    </ul>
                                </div>
                                <div class="btn-part">
-                                   <a class="readon buy-now table-btn" href="shop-single.php">Buy Now</a>
+                                   <a class="readon buy-now table-btn" href="shop-single">Buy Now</a>
                                </div>
                            </div>
                        </div>
@@ -865,7 +908,7 @@
                                    </ul>
                                </div>
                                <div class="btn-part">
-                                   <a class="readon buy-now table-btn" href="shop-single.php">Buy Now</a>
+                                   <a class="readon buy-now table-btn" href="shop-single">Buy Now</a>
                                </div>
                            </div>
                        </div>
@@ -893,7 +936,7 @@
                                    </ul>
                                </div>
                                <div class="btn-part">
-                                   <a class="readon buy-now table-btn" href="shop-single.php">Buy Now</a>
+                                   <a class="readon buy-now table-btn" href="shop-single">Buy Now</a>
                                </div>
                            </div>
                        </div>
@@ -1023,9 +1066,9 @@
                     <div class="rs-carousel owl-carousel" data-loop="true" data-items="3" data-margin="30" data-autoplay="true" data-hoverpause="true" data-autoplay-timeout="5000" data-smart-speed="800" data-dots="false" data-nav="false" data-nav-speed="false" data-center-mode="false" data-mobile-device="1" data-mobile-device-nav="false" data-mobile-device-dots="false" data-ipad-device="2" data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="2" data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="3" data-md-device-nav="false" data-md-device-dots="false">
                         <div class="blog-item">
                             <div class="image-wrap">
-                                <a href="blog-details.php"><img src="assets/images/blog/main-home/1.jpg" alt=""></a>
+                                <a href="blog-details"><img src="assets/images/blog/main-home/1.jpg" alt=""></a>
                                 <ul class="post-categories">
-                                    <li><a href="blog-details.php">Software Development</a></li>
+                                    <li><a href="blog-details">Software Development</a></li>
                                 </ul>
                             </div>
                             <div class="blog-content">
@@ -1033,16 +1076,16 @@
                                    <li class="date"><i class="fa fa-calendar-check-o"></i> 16 Nov 2020</li>
                                    <li class="admin"><i class="fa fa-user-o"></i> admin</li>
                                </ul>
-                               <h3 class="blog-title"><a href="blog-details.php">Necessity May Give Us Your Best Virtual Court System</a></h3>
+                               <h3 class="blog-title"><a href="blog-details">Necessity May Give Us Your Best Virtual Court System</a></h3>
                                <p class="desc">We denounce with righteous indige nation and dislike men who are so beguiled...</p>
-                               <div class="blog-button"><a href="blog-details.php">Learn More</a></div>
+                               <div class="blog-button"><a href="blog-details">Learn More</a></div>
                             </div>
                         </div>
                         <div class="blog-item">
                             <div class="image-wrap">
-                                <a href="blog-details.php"><img src="assets/images/blog/main-home/2.jpg" alt=""></a>
+                                <a href="blog-details"><img src="assets/images/blog/main-home/2.jpg" alt=""></a>
                                 <ul class="post-categories">
-                                    <li><a href="blog-details.php"> Web Development</a></li>
+                                    <li><a href="blog-details"> Web Development</a></li>
                                 </ul>
                             </div>
                             <div class="blog-content">
@@ -1050,16 +1093,16 @@
                                    <li class="date"><i class="fa fa-calendar-check-o"></i> 20 December 2020</li>
                                    <li class="admin"><i class="fa fa-user-o"></i> admin</li>
                                </ul>
-                               <h3 class="blog-title"><a href="blog-details.php">Tech Products That Makes Its Easier to Stay at Home</a></h3>
+                               <h3 class="blog-title"><a href="blog-details">Tech Products That Makes Its Easier to Stay at Home</a></h3>
                                <p class="desc">We denounce with righteous indige nation and dislike men who are so beguiled...</p>
-                               <div class="blog-button"><a href="blog-details.php">Learn More</a></div>
+                               <div class="blog-button"><a href="blog-details">Learn More</a></div>
                             </div>
                         </div>
                         <div class="blog-item">
                             <div class="image-wrap">
-                                <a href="blog-details.php"><img src="assets/images/blog/main-home/3.jpg" alt=""></a>
+                                <a href="blog-details"><img src="assets/images/blog/main-home/3.jpg" alt=""></a>
                                 <ul class="post-categories">
-                                    <li><a href="blog-details.php">It Services</a></li>
+                                    <li><a href="blog-details">It Services</a></li>
                                 </ul>
                             </div>
                             <div class="blog-content">
@@ -1067,16 +1110,16 @@
                                    <li class="date"><i class="fa fa-calendar-check-o"></i> 22 December 2020</li>
                                    <li class="admin"><i class="fa fa-user-o"></i> admin</li>
                                </ul>
-                               <h3 class="blog-title"><a href="blog-details.php">Open Source Job Report Show More Openings Fewer</a></h3>
+                               <h3 class="blog-title"><a href="blog-details">Open Source Job Report Show More Openings Fewer</a></h3>
                                <p class="desc">We denounce with righteous indige nation and dislike men who are so beguiled...</p>
-                               <div class="blog-button"><a href="blog-details.php">Learn More</a></div>
+                               <div class="blog-button"><a href="blog-details">Learn More</a></div>
                             </div>
                         </div>
                         <div class="blog-item">
                             <div class="image-wrap">
-                                <a href="blog-details.php"><img src="assets/images/blog/main-home/4.jpg" alt=""></a>
+                                <a href="blog-details"><img src="assets/images/blog/main-home/4.jpg" alt=""></a>
                                 <ul class="post-categories">
-                                    <li><a href="blog-details.php">Artifical Intelligence</a></li>
+                                    <li><a href="blog-details">Artifical Intelligence</a></li>
                                 </ul>
                             </div>
                             <div class="blog-content">
@@ -1084,16 +1127,16 @@
                                    <li class="date"><i class="fa fa-calendar-check-o"></i> 26 December 2020</li>
                                    <li class="admin"><i class="fa fa-user-o"></i> admin</li>
                                </ul>
-                               <h3 class="blog-title"><a href="blog-details.php">Types of Social Proof What its Makes Them Effective</a></h3>
+                               <h3 class="blog-title"><a href="blog-details">Types of Social Proof What its Makes Them Effective</a></h3>
                                <p class="desc">We denounce with righteous indige nation and dislike men who are so beguiled...</p>
-                               <div class="blog-button"><a href="blog-details.php">Learn More</a></div>
+                               <div class="blog-button"><a href="blog-details">Learn More</a></div>
                             </div>
                         </div>
                         <div class="blog-item">
                             <div class="image-wrap">
-                                <a href="blog-details.php"><img src="assets/images/blog/main-home/5.jpg" alt=""></a>
+                                <a href="blog-details"><img src="assets/images/blog/main-home/5.jpg" alt=""></a>
                                 <ul class="post-categories">
-                                    <li><a href="blog-details.php">Digital Technology</a></li>
+                                    <li><a href="blog-details">Digital Technology</a></li>
                                 </ul>
                             </div>
                             <div class="blog-content">
@@ -1101,16 +1144,16 @@
                                    <li class="date"><i class="fa fa-calendar-check-o"></i> 28 December 2020</li>
                                    <li class="admin"><i class="fa fa-user-o"></i> admin</li>
                                </ul>
-                               <h3 class="blog-title"><a href="blog-details.php">Tech Firms Support Huawei Restriction, Balk at Cost</a></h3>
+                               <h3 class="blog-title"><a href="blog-details">Tech Firms Support Huawei Restriction, Balk at Cost</a></h3>
                                <p class="desc">We denounce with righteous indige nation and dislike men who are so beguiled...</p>
-                               <div class="blog-button"><a href="blog-details.php">Learn More</a></div>
+                               <div class="blog-button"><a href="blog-details">Learn More</a></div>
                             </div>
                         </div>
                         <div class="blog-item">
                             <div class="image-wrap">
-                                <a href="blog-details.php"><img src="assets/images/blog/main-home/6.jpg" alt=""></a>
+                                <a href="blog-details"><img src="assets/images/blog/main-home/6.jpg" alt=""></a>
                                 <ul class="post-categories">
-                                    <li><a href="blog-details.php">It Services</a></li>
+                                    <li><a href="blog-details">It Services</a></li>
                                 </ul>
                             </div>
                             <div class="blog-content">
@@ -1118,9 +1161,9 @@
                                    <li class="date"><i class="fa fa-calendar-check-o"></i> 30 December 2020</li>
                                    <li class="admin"><i class="fa fa-user-o"></i> admin</li>
                                </ul>
-                               <h3 class="blog-title"><a href="blog-details.php">Servo Project Joins The Linux Foundation Fold Desco</a></h3>
+                               <h3 class="blog-title"><a href="blog-details">Servo Project Joins The Linux Foundation Fold Desco</a></h3>
                                <p class="desc">We denounce with righteous indige nation and dislike men who are so beguiled...</p>
-                               <div class="blog-button"><a href="blog-details.php">Learn More</a></div>
+                               <div class="blog-button"><a href="blog-details">Learn More</a></div>
                             </div>
                         </div>
                      </div>
@@ -1129,7 +1172,7 @@
 <!-- Blog Section End -->
 
 <!-- Partner Start -->
-<?php include("./our-partners-compnies.php"); ?>
+<?php include("./our-partners-compnies"); ?>
 <!-- Partner End -->
 
 </div>

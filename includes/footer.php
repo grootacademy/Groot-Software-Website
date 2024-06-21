@@ -5,7 +5,7 @@
                    <div class="row">
                        <div class="col-lg-6 col-md-12 col-sm-12 footer-widget">
                            <div class="footer-logo mb-30">
-                               <a href="index.php"><img src="assets/images/logo-dark.png" alt=""></a>
+                               <a href="index"><img src="assets/images/logo-dark.png" alt=""></a>
                            </div>
                            <div class="textwidget pb-30">
                                <p>Groot Software is a go-to-destination for all your web development, software development and any other digital development task. We also provide digital marketing services for your business.</p>
@@ -22,11 +22,11 @@
                        <div class="col-lg-3 col-md-12 col-sm-12 pl-45 md-pl-15 md-mb-30">
                            <h3 class="widget-title">IT Services</h3>
                            <ul class="site-map">
-                               <li><a href="software-development.php">Software Development</a></li>
-                               <li><a href="web-development-services.php">Web Development</a></li>
+                               <li><a href="software-development">Software Development</a></li>
+                               <li><a href="web-development-services">Web Development</a></li>
                                <li><a href="#">Mobile Developement Solutions</a></li>
                                <li><a href="#">Java Development Solutions</a></li>
-                               <!-- <li><a href="product-design-services.php">Product Design</a></li> -->
+                               <!-- <li><a href="product-design-services">Product Design</a></li> -->
                            </ul>
                        </div>
                        <div class="col-lg-3 col-md-12 col-sm-12 md-mb-30">
@@ -75,12 +75,12 @@
                    <div class="row y-middle">
                        <div class="col-lg-6 text-right md-mb-10 order-last">
                            <ul class="copy-right-menu">
-                               <li><a href="index.php">Home</a></li>
-                               <li><a href="about.php">About</a></li>
-                               <li><a href="blog.php">Blog</a></li>
-                               <li><a href="shop.php">Shop</a></li>
-                               <li><a href="faq.php">FAQs</a></li>
-                               <li><a href="Privacy_Policy_For_Groot_Software.php">Privacy and Policy</a></li>
+                               <li><a href="index">Home</a></li>
+                               <li><a href="about">About</a></li>
+                               <li><a href="blog">Blog</a></li>
+                               <li><a href="shop">Shop</a></li>
+                               <li><a href="faq">FAQs</a></li>
+                               <li><a href="Privacy_Policy_For_Groot_Software">Privacy and Policy</a></li>
                            </ul>
                        </div>
                        <div class="col-lg-6">
