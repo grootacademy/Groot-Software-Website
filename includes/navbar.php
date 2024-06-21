@@ -1,11 +1,3 @@
-<?php include('./header_up.php'); ?>
-  <!-- meta tag -->
-  <meta charset="utf-8">
-  <title>Groot Software :- Best Web Desining and Development company in Jaipur</title>
-  <!-- responsive tag -->
-  <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  
 </head>
 
 <body class="defult-home">
@@ -58,6 +50,7 @@
                           class="fa fa-linkedin"></i></a></li>
                     <li><a href="https://stackoverflow.com/c/grootsoftware/" target="_blank"><i
                           class="fa fa-stack-overflow"></i></a></li>
+                    <li><a href="https://wa.me/919610967825" target="_blank"><i class="fa fa-whatsapp"></i></a></li>
                   </ul>
                 </div>
               </div>
