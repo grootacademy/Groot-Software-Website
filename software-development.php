@@ -41,7 +41,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <!--  META DATA -->
-<?php include('./includes/navbar');  ?>
+<?php include('./includes/navbar.php');  ?>
             <!-- Breadcrumbs Start -->
             <div class="rs-breadcrumbs img2">
                 <div class="breadcrumbs-inner text-center">
